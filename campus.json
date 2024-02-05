@@ -1,0 +1,264 @@
+{
+  "intents": [
+    {
+      "_comment": "this tag for varsity hall information.",
+      "tag": [
+        "hall facilities",
+        "diu hall",
+        "varsity hall information",
+        "female hall"
+      ],
+      "patterns": [
+        "varsity hall information?",
+        "diu hall information?",
+        "is there any boys hall?",
+        "is there any hall for girls",
+        "facilities of hall",
+        "information about varsity hall",
+        "female hall information?",
+        "girls hall information"
+      ],
+      "responses": [
+        "Hall Facilities:\n>Smart Living Scope.\n>Close to the Class.\n>Leadership Development.\n>Cost-Effective Living Option.\n>Enjoying the Wireless Life.\n>Safety & Security.\n\nIn-room Facility:\n>One Bed per Student shall be offered.\n>Fully furnished rooms with beds & underbed drawers.\n>Study tables & Chair.\n>Laundry Service.\n>Filter Water facility to be provided.\n>Medical facility available with first aid/ provided to sick Residents.\n>Electricity Facility in each room.\n>Generator facility available (Need Based).\n>Common Room.\n>Indoor games like carrom , chess, table tennis etc.\n>Each room is shared by four students. A bed, reading table, chair, fan, light will provide by Hall authority. Students have to bring their own mattress, bed sheets, quilt, pillow etc. Each room is 300sqf. A corridor is front in the room (common) and a separate veranda in each room.\n\nContact:\n>Male Hall(YKSG-1):01847334956\n>Male Hall(YKSG-2):01896034256\n>Female Hall(RASG):01896034255\n>Email: hall@daffodilvarsity.edu.bd"
+      ]
+    },
+    {
+      "tag": [
+        "hall admission",
+        "hall seat booking",
+        "hall admission procedure",
+        "hall booking guidelines",
+        "hall seat reservation",
+        "hall seat allocation",
+        "application for hall seat"
+      ],
+      "patterns": [
+        "Can you outline the procedure for reserving a hall seat on campus?",
+        "how can i get seat on hall?",
+        "hall seat booking procedure?",
+        "how to apply for hall seat?",
+        "where i apply for hall seat booking?",
+        "hall seat allocation process?",
+        "when i get hall?",
+        "how to apply for hall seat?",
+        "how to apply for hall",
+        "apply for hall",
+        "hall admission process",
+        "requirements for hall apply ",
+        "Where can students find detailed instructions on the hall admission process?",
+        "Could you provide information on how students can apply for hall admission?",
+        "What is the process for booking a hall seat for the upcoming academic term?",
+        "Is there a specific online portal or platform where students can submit their hall seat applications?",
+        "What documentation or forms are required for students to apply for hall admission?"
+      ],
+      "responses": [
+        "\nAdmission Eligibility:\n>Regular Students of DIU.\n>Minimum SGP: 2.5 in case of Readmission/existing students.\nNo Accusation/ Conviction from University or Government.\n\nHall Fees (Effect from Spring 2024):\n>Per regular seat cost is BDT- 3500/- (Per month). But mode of the payment will be semester wise and advance.\n>Registration fee: BDT- 3000/- (One time admission fee, not applicable in every semester).\n>Fee for students: BDT- 21000/- (for 6 month).\n>A new student has to pay BDT- 24000/- only in 1st semester and after that BDT- 21000/- in every semester.\n>The Hall payment should be done during academic registration (beginning in the semester).\n\nPayment Procedure:\n>You can deposit money Accounts section, at DSC or pay through the student Hall portal using.\n>(Bkash, Rocket, DBBL Nexus, VISA/Master/Amex Card, IBBL, Nagad, Upay, Mkash, Ok wallet).\n\nApply for a seat [CLICK HERE](https://hall.diu.edu.bd/web/login)\n\nSeat Booking Guidelines [CLICK HERE](https://hall.daffodilvarsity.edu.bd/hall-portal.html)\n\nContact:\n>Male Hall(YKSG-1):01847334956\n>Male Hall(YKSG-2):01896034256\n>Female Hall(RASG):01896034255\n>Email: hall@daffodilvarsity.edu.bd"
+      ]
+    },
+    {
+      "_comment": "diu transport or bus system",
+      "tag": [
+        "diu bus service",
+        "bus service",
+        "transport",
+        "transport system",
+        "diu transport",
+        "bus",
+        "transport"
+      ],
+      "patterns": [
+        "tell me about diu transport system?",
+        "Are there specific bus stops on campus, and where are they located?",
+        "Is the university's bus service available during weekends and holidays?",
+        "how to get schedule for bus?",
+        "how to get schedule for transport?",
+        "where i get bus service?",
+        "diu bus service?",
+        "diu transport system",
+        "bus service facilities",
+        "transport facilities",
+        ""
+      ],
+      "responses": [
+        "\nFacilities Inside The Buses:\n>CCTV Camera\n>Fire Extinguishers\n>First Aid Box\n>Air conditioner\n>Excellent seats and safety belt\n\nBenefits Of Using University Buses/Transport:\n>Always on time\n>Safe and time-consuming\n>Better Environment\n>Reduce traffic\n>Reduce pollution\n>It can teach time management\n>Money saver\n\nTo get bus schedules for different routes and more information[CLICK HERE](https://daffodilvarsity.edu.bd/article/transport)"
+      ]
+    },
+    {
+      "_comment": "diu gym service",
+      "tag": [
+        "gym",
+        "diu gym",
+        "GYMNASIUM",
+        "gym service"
+      ],
+      "patterns": [
+        "is diu provide gym service?",
+        "is there any gym",
+        "fee for gym",
+        "monthly fee for gym",
+        "varsity gym?",
+        "how much need for gym?",
+        "diu gym",
+        "how i get gym service?",
+        "is there any trainer for gym?",
+        "can teacher get gym service?",
+        ""
+      ],
+      "responses": [
+        "\nThe management of DIU provides the gymnasium facility for students and employees.\n\nMonthly Fees (Tk):\n>Students:1000/-\n>Teachers:1000/-\n>Officials:1000/-\n\n1.There will be a total of 8 sessions during University hours (from 9 AM to 5 PM), of which 2 will be exclusively for female students and the remaining 6 for male students. The time limit of each session will be one hour.\n2.There will be a single session after office hours exclusively for teachers and officials. Duration of the evening session will be 3 hours (from 5PM to 8PM).\n\nContact Persons:\nMs. Sanjida Amin Shila\nStudent Counselor\nshila@daffodilvarsity.edu.bd\nCell: 01713493039"
+      ]
+    },
+    {
+      "_comment": "diu medical service",
+      "tag": [
+        "medical",
+        "medical service",
+        "medical information",
+        "diu medical"
+      ],
+      "patterns": [
+        "diu medical service",
+        "medical service",
+        "medical service available",
+        "Are there pharmacy services available on campus for prescription medications?",
+        "How can students schedule appointments with the on-campus medical services?",
+        "is medical service available on night",
+        "available medical service time",
+        "tell me  about diu medical service",
+        "medical information",
+        "diu medical",
+        "how much fee need for medical service?",
+        "medical service fee?",
+        "is there any doctor?",
+        "medical facilities",
+        ""
+      ],
+      "responses": [
+        "Medical Facilities:\nGeneral primary checkup \nBlood pressure checkup\nBlood sugar checkup\nPrimary Surgery\nEmergency Medicine\nIV normal saline\nDressing (Massive)\nDressing (General)\nOxygen inhalation\nNebulize\nAmbulance Service 24/7.\nDoctor appoint fee 50/-\n\nMedical service will be available 7 (Seven) days in a week, other than weekly and govt holidays.Time of providing services from 8.00 am to 12.00 am.\n\nEmergency Contact:\n>Email of DIU Medical Center: diumc@daffodilvarsity.edu.bd\n>Medical Center Hotline Number: 01847140120\n>Ambulance Hotline Number:  01847334999\n\nMore service information[CLICK HERE](https://daffodilvarsity.edu.bd/medical/medical-center-collaboration)"
+      ]
+    },
+    {
+      "_comment": "Extra curricular activities",
+      "tag": [
+        "extra curricular activities",
+        "extra curricular activity"
+      ],
+      "patterns": [
+        "diu extra curricular activities?",
+        "tell me diu extra curricular activities?",
+        "tell me  extra curricular activities?",
+        "extra curricular activities",
+        ""
+      ],
+      "responses": [
+        "\nHere is:\nEmployability 360 [CLICK HERE](https://employability.daffodilvarsity.edu.bd/)\nBNCC\nRover Scout [CLICK HERE](https://roverscouts.daffodilvarsity.edu.bd/)\nStartup Market[CLICK HERE](https://daffodilvarsity.edu.bd/public/article/startup-market)\nChangetogether [CLICK HERE](https://changetogether.daffodilvarsity.edu.bd/)"
+      ]
+    },
+    {
+      "_comment": "diu club",
+      "tag": [
+        "club",
+        "clubs",
+        "diu club",
+        "varsity club"
+      ],
+      "patterns": [
+        "how much clubs hold diu?",
+        "Does DIU have a club for students to join?",
+        "Is there information available about what club options DIU offers?",
+        "Can you provide details on how students can get involved if DIU has a club?",
+        "How can students find out if DIU has a specific club matching their interests?",
+        "Are there any recent or upcoming events organized by a club if DIU has one?",
+        "Is there information available about clubs or student organizations at DIU?",
+        "How can students find out if DIU has a particular club they are interested in?",
+        "varsity clubs",
+        "varsity club",
+        ""
+      ],
+      "responses": [
+        "\nDiu has lots of clubs. You can get all the information and procedures here.[Click](https://clubs.daffodilvarsity.edu.bd/)"
+      ]
+    },
+    {
+      "_comment": "diu library",
+      "tag": [
+        "library",
+        "diu library"
+      ],
+      "patterns": [
+        "tell me diu library?",
+        "varsity library",
+        "when library time available?",
+        "library open time?",
+        "library membership process procedure",
+        "is there any library?",
+        "is there any library",
+        "library facility",
+        "library facilities",
+        "do you have library",
+        "does the varsity have library facility",
+        "university library",
+        "where can i get books",
+        "book facility",
+        "Where is library",
+        "Library",
+        "Library information",
+        "Library books information",
+        "Tell me about library",
+        "how many libraries",
+        ""
+      ],
+      "responses": [
+        "AB04:3rd Floor\nThe purpose of the DIU library is to support academic and research activities. The library carries out its mission by Fulfilling the course related needs of undergraduates, Meeting the scholarly needs of graduate students and faculty members, Providing users with access to materials located inside the library system and lot more.\n\nDuring The Semester\nSat to Thurs\n8.00 AM to 8.00 PM\nFriday\n8.00 AM to 4.00 PM\n\nDuring Off Semester\nSat to Thurs\n8.00 AM to 4.00 PM\nFriday\nCLOSED\n\nQuick Contacts\nHead of The Library\nlibrarian@daffodilvarsity.edu.bd\nIP Phone: 65266\n\nCirculation Desk\nIP Phone: 65267\n\nResearch and Reference Support & Remote Access Permission\nlibrary1@daffodilvarsity.edu.bd\nMore details [CLICK HERE](https://library.daffodilvarsity.edu.bd/)"
+      ]
+    },
+    {
+      "_comment": "diu academic guidelines",
+      "tag": [
+        "academic guidelines",
+        "rules and regulation",
+        "payment guidelines",
+        "payment system",
+        "credit transfer guidelines",
+        "transfer credit"
+      ],
+      "patterns": [
+        "What are the academic guidelines for this program?",
+        "tell me academic guidelines?",
+        "Could you explain the rules and regulations that students need to follow?",
+        "Where can I find information about the payment guidelines?",
+        "How does the payment system work for tuition and fees?",
+        "What are the credit transfer guidelines at this institution?",
+        "Can you provide details on how to transfer credits from another varsity?",
+        ""
+      ],
+      "responses": [
+        "\nRules and Regulation[Click Here](https://daffodilvarsity.edu.bd/article/rules-and-regulation)\nNotice for Students[Click Here](https://daffodilvarsity.edu.bd/article/important-notice-for-students)\nExamination Guideline[Click Here](https://daffodilvarsity.edu.bd/article/examination-guideline)\nPolicy for conducting online examination[Click Here](https://daffodilvarsity.edu.bd/article/policy-online-examination)\nCredit Transfer Guidelines[Click Here](https://daffodilvarsity.edu.bd/article/credit-transfer)\nHall code of conduct[Click Here](https://hall.daffodilvarsity.edu.bd/images/Hall-Code-of-Conduct.pdf)\nPayment Guidelines for All Students[Click Here](https://daffodilvarsity.edu.bd/photos/pdf/payment-guidelines.pdf)\nExam Clearance Guideline[Click Here](https://daffodilvarsity.edu.bd/photos/pdf/exam-clearance.pdf)"
+      ]
+    },
+    {
+      "_comment": "Semester Schedule",
+      "tag": [
+        "Semester Schedule",
+        "next semester Schedule",
+        "this semester details"
+      ],
+      "patterns": [
+        "What is the schedule for the upcoming semester?",
+        "next semester",
+        "next semester schedule",
+        "running semester details",
+        "upcoming semester schedule",
+        "give me this or upcoming semester schedule",
+        "Where can I find information about the schedule for this semester?",
+        " What are the details of the courses being offered this semester?",
+        " When will the next semester's schedule be available for review?",
+        "Could you share more information about the classes and events planned for this semester?",
+        ""
+      ],
+      "responses": [
+        "Semester Schedule details[Click Here](https://daffodilvarsity.edu.bd/article/semester-schedule)"
+      ]
+    }
+  ]
+}

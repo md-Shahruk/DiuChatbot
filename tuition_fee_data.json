@@ -1,0 +1,966 @@
+{
+  "intents": [
+    {
+      "tag": [
+        "B.Sc. in Computer Science and Engineering (CSE)",
+        "CSE Tuition Fee"
+      ],
+      "patterns": [
+        "CSE tuition fee",
+        "What is the tuition fee for CSE?",
+        "Tell me about CSE course fees",
+        "What is the tuition fee for the B.Sc. in Computer Science and Engineering (CSE) program?",
+        "Can you provide details about the tuition cost for CSE?",
+        "How much do I need to pay for the B.Sc. in CSE course?",
+        "Are there any additional fees apart from the tuition for CSE?",
+        "Tell me about the fee structure for the B.Sc. in Computer Science and Engineering program.",
+        "What are the payment options for CSE tuition?",
+        "Can you break down the tuition fee for each semester in the B.Sc. CSE program?"
+      ],
+      "responses": [
+        "Credit: 154.5, Program Duration: 4 Years, Payable During Admission: 55700, Average Semester Fees: 114,000, Total Tuition Fees: 713,400, Total Program Fees: 931,800\nCSE Prospectus[Click Here](https://daffodilvarsity.edu.bd/department/cse/prospectus)"
+      ]
+    },
+    {
+      "tag": [
+        "M.Sc. in Computer Science and Engineering (CSE)",
+        "M.Sc. CSE Tuition Fee",
+        "M.Sc. CSE Program Costs"
+      ],
+      "patterns": [
+        "M.Sc. CSE tuition fee",
+        "What is the fee for M.Sc. in CSE?",
+        "What is the tuition fee for the M.Sc. in Computer Science and Engineering (CSE) program?",
+        "Can you provide details about the tuition cost for M.Sc. CSE?",
+        "How much do I need to pay for the M.Sc. in CSE course?",
+        "Are there any additional fees apart from the tuition for M.Sc. CSE?",
+        "Tell me about the fee structure for the M.Sc. in Computer Science and Engineering program.",
+        "Can you break down the tuition fee for each semester in the M.Sc. CSE program?"
+      ],
+      "responses": [
+        "Credit: 42 - 62, Program Duration: 1.5-2 Years, Payable During Admission: 26625, Average Semester Fees: 75,000, Total Tuition Fees: 99,000 - 159,000, Total Program Fees: 169,875 - 238,500\nM.Sc in CSE Prospectus[Click Here](https://daffodilvarsity.edu.bd/department/cse/prospectus)"
+      ]
+    },
+    {
+      "tag": [
+        "M.S. in Management information System (MIS)",
+        "MIS Tuition Fee",
+        "MIS Program Costs"
+      ],
+      "patterns": [
+        "MIS tuition fee",
+        "What is the fee for MIS?",
+        "What is the tuition fee for the M.S. in Management Information Systems (MIS) program?",
+        "Can you provide details about the tuition cost for M.S. MIS?",
+        "How much do I need to pay for the M.S. in MIS course?",
+        "Are there any additional fees apart from the tuition for M.S. MIS?",
+        "Tell me about the fee structure for the M.S. in Management Information Systems program.",
+        "Can you break down the tuition fee for each semester in the M.S. MIS program?"
+      ],
+      "responses": [
+        "Credit: 42 - 60, Program Duration: 1-2 Years, Payable During Admission: 26650, Average Semester Fees: 65,000, Total Tuition Fees: 69,000 - 110,400, Total Program Fees: 131,850 - 190,500\nMIS Prospectus[Click Here](https://daffodilvarsity.edu.bd/images/prospectus/MS-in-MIS.jpg)"
+      ]
+    },
+    {
+      "tag": [
+        "B.Sc. in Software Engineering (SWE)",
+        "swe Tuition Fee",
+        "swe Program Costs",
+        "software Tuition Fee",
+        "software Program Costs"
+      ],
+      "patterns": [
+        "SWE tuition fee",
+        "software Tuition Fee",
+        "software Program Costs",
+        "What is the fee for SWE?",
+        "What is the tuition fee for the B.Sc. in Software Engineering program?",
+        "Can you provide details about the tuition cost for B.Sc. SWE?",
+        "How much do I need to pay for the B.Sc. in Software Engineering course?",
+        "Are there any additional fees apart from the tuition for B.Sc. SWE?",
+        "Tell me about the fee structure for the B.Sc. in Software Engineering program.",
+        "Can you break down the tuition fee for each semester in the B.Sc. SWE program?"
+      ],
+      "responses": [
+        "Credit: 145, Program Duration: 4 Years, Payable During Admission: 55700, Average Semester Fees: 106,000, Total Tuition Fees: 603,000, Total Program Fees: 871,200\nSWE Prospectus[Click Here](https://daffodilvarsity.edu.bd/department/swe/prospectus)"
+      ]
+    },
+    {
+      "tag": [
+        "M.Sc. in Software Engineering (SWE)",
+        "M.Sc. swe Tuition Fee",
+        "M.Sc. swe Program Costs",
+        "M.Sc. software Tuition Fee",
+        "M.Sc. software Program Costs"
+      ],
+      "patterns": [
+        "M.Sc. SWE tuition fee",
+        "M.Sc. software engineering tuition fee",
+        "What is the fee for M.Sc. software engineering?",
+        "What is the fee for M.Sc. in SWE?",
+        "What is the total tuition fee for the entire duration of the M.Sc. in Software Engineering program?",
+        "Can you provide details about the breakdown of tuition fees for each semester in the M.Sc. SWE course?",
+        "Are there any additional fees or hidden costs apart from the tuition for M.Sc. SWE?",
+        "Tell me about the fee structure for the M.Sc. in Software Engineering program."
+      ],
+      "responses": [
+        "Credit: 42, Program Duration: 1.5 Years, Payable During Admission: 26125, Average Semester Fees: 60,000, Total Tuition Fees: 90,000, Total Program Fees: 147,375\nM.Sc. in SWE Prospectus[Click Here](https://daffodilvarsity.edu.bd/department/swe/prospectus)"
+      ]
+    },
+    {
+      "tag": [
+        "B.Sc. in Software Engineering ( Major in Cyber Security)",
+        "B.Sc. SWE Cyber Security",
+        "B.Sc. Software Engineering with Cyber Security Major",
+        "Cyber Security Tuition Fee",
+        "B.Sc. SWE Cyber Security Program",
+        "Cyber Security Major Costs"
+      ],
+      "patterns": [
+        "Cyber Security tuition fee",
+        "What is the fee for Cyber Security?",
+        "What is the tuition fee for the B.Sc. in Software Engineering with a major in Cyber Security program?",
+        "Can you provide details about the tuition cost specifically for the Cyber Security major within the B.Sc. Software Engineering course?",
+        "How much do I need to pay for the B.Sc. in Software Engineering with a focus on Cyber Security?",
+        "Are there any additional fees apart from the tuition for the B.Sc. SWE program with a major in Cyber Security?",
+        "Tell me about the fee structure for the B.Sc. in Software Engineering with a Cyber Security major.",
+        "Can you break down the tuition fee for each semester in the B.Sc. Software Engineering with a major in Cyber Security program?"
+      ],
+      "responses": [
+        "Credit: 145, Program Duration: 4 Years, Payable During Admission: 55700, Average Semester Fees: 107,000, Total Tuition Fees: 659,000, Total Program Fees: 882,200"
+      ]
+    },
+    {
+      "tag": [
+        "B.Sc. in Software Engineering ( Major in Data Science)",
+        "B.Sc. SWE Data Science",
+        "B.Sc. Software Engineering with Data Science Major",
+        "Data Science Tuition Fee",
+        "B.Sc. SWE Data Science Program",
+        "Data Science Major Costs"
+      ],
+      "patterns": [
+        "Data Science tuition fee",
+        "What is the fee for Data Science?",
+        "What is the tuition fee for the B.Sc. in Software Engineering with a major in Data Science program?",
+        "Can you provide details about the tuition cost specifically for the Data Science major within the B.Sc. Software Engineering course?",
+        "How much do I need to pay for the B.Sc. in Software Engineering with a focus on Data Science?",
+        "Are there any additional fees apart from the tuition for the B.Sc. SWE program with a major in Data Science?",
+        "Tell me about the fee structure for the B.Sc. in Software Engineering with a Data Science major.",
+        "What are the payment options for tuition in the B.Sc. SWE program, especially for Data Science students?",
+        "Can you break down the tuition fee for each semester in the B.Sc. Software Engineering with a major in Data Science program?"
+      ],
+      "responses": [
+        "Credit: 145, Program Duration: 4 Years, Payable During Admission: 55700, Average Semester Fees: 107,000, Total Tuition Fees: 661,000, Total Program Fees: 884,200"
+      ]
+    },
+    {
+      "tag": [
+        "B.Sc. in Software Engineering ( Major in Robotics & Embedded Systems)",
+        "B.Sc. SWE Robotics & Embedded Systems",
+        "B.Sc. Software Engineering with Robotics Major",
+        "Robotics & Embedded Systems Tuition Fee",
+        "B.Sc. SWE Robotics Program cost",
+        "Embedded Systems Major Costs"
+      ],
+      "patterns": [
+        "Robotics & Embedded Systems tuition fee",
+        "What is the fee for Robotics & Embedded Systems?",
+        "What is the tuition fee for the B.Sc. in Software Engineering with a major in Robotics & Embedded Systems program?",
+        "Can you provide details about the tuition cost specifically for the Robotics & Embedded Systems major within the B.Sc. Software Engineering course?",
+        "How much do I need to pay for the B.Sc. in Software Engineering with a focus on Robotics & Embedded Systems?",
+        "Are there any additional fees apart from the tuition for the B.Sc. SWE program with a major in Robotics & Embedded Systems?",
+        "Tell me about the fee structure for the B.Sc. in Software Engineering with a Robotics & Embedded Systems major.",
+        "Can you break down the tuition fee for each semester in the B.Sc. Software Engineering with a major in Robotics & Embedded Systems program?"
+      ],
+      "responses": [
+        "Credit: 145, Program Duration: 4 Years, Payable During Admission: 55700, Average Semester Fees: 107,000, Total Tuition Fees: 661,000, Total Program Fees: 884,200"
+      ]
+    },
+    {
+      "tag": [
+        "B.Sc. in Multimedia and Creative Technology (MCT)",
+        "B.Sc. MCT Program cost",
+        "Multimedia and Creative Technology Tuition Fee",
+        "B.Sc. Multimedia Studies",
+        "Creative Technology Major Costs",
+        "B.Sc. MCT Course Fees"
+      ],
+      "patterns": [
+        "MCT tuition fee",
+        "What is the fee for MCT?",
+        "What is the tuition fee for the B.Sc. in Multimedia and Creative Technology program?",
+        "Can you provide details about the breakdown of tuition fees for each semester in the B.Sc. MCT course?",
+        "How much do I need to pay for the B.Sc. in Multimedia and Creative Technology program?",
+        "Are there any additional fees apart from the tuition for the B.Sc. MCT program?",
+        "Tell me about the fee structure for the B.Sc. in Multimedia and Creative Technology program.",
+        "Can you break down the tuition fee for each semester in the B.Sc. Multimedia and Creative Technology program?"
+      ],
+      "responses": [
+        "Credit: 147, Program Duration: 4 Years, Payable During Admission: 54650, Average Semester Fees: 83,000, Total Tuition Fees: 468,450, Total Program Fees: 683,850\nMCT Prospectus[Click Here](https://daffodilvarsity.edu.bd/images/prospectus/BSc-in-MCT.jpg)"
+      ]
+    },
+    {
+      "tag": [
+        "B.Sc. in Environmental Science and Disaster Management (ESDM)",
+        "B.Sc. ESDM Program cost",
+        "Environmental Science and Disaster Management Tuition Fee",
+        "B.Sc. ESDM Studies",
+        "Disaster Management Major Costs",
+        "B.Sc. ESDM Course Fees"
+      ],
+      "patterns": [
+        "ESDM tuition fee",
+        "Environmental Science and Disaster Management tuition fee",
+        "What is the fee for ESDM?",
+        "What is the tuition fee for the B.Sc. in Environmental Science and Disaster Management program?",
+        "Can you provide details about the breakdown of tuition fees for each semester in the B.Sc. ESDM course?",
+        "How much do I need to pay for the B.Sc. in Environmental Science and Disaster Management program?",
+        "Are there any additional fees apart from the tuition for the B.Sc. ESDM program?",
+        "Tell me about the fee structure for the B.Sc. in Environmental Science and Disaster Management program.",
+        "Can you break down the tuition fee for each semester in the B.Sc. Environmental Science and Disaster Management program?"
+      ],
+      "responses": [
+        "Credit: 146, Program Duration: 4 Years, Payable During Admission: 53700, Average Semester Fees: 66,000, Total Tuition Fees: 354,000, Total Program Fees: 551,200"
+      ]
+    },
+    {
+      "tag": [
+        "B.Sc. in Computing and Information System (CIS)",
+        "B.Sc. CIS Program cost",
+        "Computing and Information System Tuition Fee",
+        "B.Sc. CIS Studies",
+        "B.Sc. CIS Course Fees"
+      ],
+      "patterns": [
+        "CIS tuition fee",
+        "Computing and Information System tuition fee",
+        "What is the fee for CIS?",
+        "What is the tuition fee for the B.Sc. in Computing and Information System program?",
+        "Can you provide details about the breakdown of tuition fees for each semester in the B.Sc. CIS course?",
+        "How much do I need to pay for the B.Sc. in Computing and Information System program?",
+        "Are there any additional fees apart from the tuition for the B.Sc. CIS program?",
+        "Tell me about the fee structure for the B.Sc. in Computing and Information System program.",
+        "Can you break down the tuition fee for each semester in the B.Sc. Computing and Information System program?"
+      ],
+      "responses": [
+        "Credit: 142, Program Duration: 4 Years, Payable During Admission: 54800, Average Semester Fees: 86,000, Total Tuition Fees: 483,600, Total Program Fees: 712,500"
+      ]
+    },
+    {
+      "tag": [
+        "B.Sc. in Information Technology & Management (ITM)",
+        "B.Sc. ITM Program cost",
+        "Information Technology & Management Tuition Fee",
+        "B.Sc. ITM Studies",
+        "B.Sc. ITM Course Fees"
+      ],
+      "patterns": [
+        "ITM tuition fee",
+        "Information Technology & Management tuition fee",
+        "What is the fee for ITM?",
+        "What is the tuition fee for the B.Sc. in Information Technology & Management program?",
+        "Can you provide details about the breakdown of tuition fees for each semester in the B.Sc. ITM course?",
+        "How much do I need to pay for the B.Sc. in Information Technology & Management program?",
+        "Are there any additional fees apart from the tuition for the B.Sc. ITM program?",
+        "Tell me about the fee structure for the B.Sc. in Information Technology & Management program.",
+        "What are the payment options for tuition in the B.Sc. ITM program?",
+        "Can you break down the tuition fee for each semester in the B.Sc. Information Technology & Management program?"
+      ],
+      "responses": [
+        "Credit: 142, Program Duration: 4 Years, Payable During Admission: 54500, Average Semester Fees: 85,000, Total Tuition Fees: 509,900, Total Program Fees: 727,100"
+      ]
+    },
+    {
+      "tag": [
+        "B.Sc. (Hon's) in Physical Education and Sports Science (PESS)",
+        "B.Sc. PESS Program cost",
+        "Physical Education and Sports Science Tuition Fee",
+        "B.Sc. PESS Studies",
+        "B.Sc. PESS Course Fees"
+      ],
+      "patterns": [
+        "PESS tuition fee",
+        "Physical Education and Sports Science tuition fee?",
+        "What is the fee for PESS?",
+        "What is the tuition fee for the B.Sc. (Hon's) in Physical Education and Sports Science program?",
+        "Can you provide details about the breakdown of tuition fees for each semester in the B.Sc. PESS course?",
+        "How much do I need to pay for the B.Sc. (Hon's) in Physical Education and Sports Science program?",
+        "Are there any additional fees apart from the tuition for the B.Sc. PESS program?",
+        "Tell me about the fee structure for the B.Sc. (Hon's) in Physical Education and Sports Science program.",
+        "What are the payment options for tuition in the B.Sc. PESS program?",
+        "Can you break down the tuition fee for each semester in the B.Sc. (Hon's) Physical Education and Sports Science program?"
+      ],
+      "responses": [
+        "Credit: 144, Program Duration: 4 Years, Payable During Admission: 52400, Average Semester Fees: 67,000, Total Tuition Fees: 359,400, Total Program Fees: 558,100"
+      ]
+    },
+    {
+      "tag": [
+        "Bachelor of Business Administration (BBA)",
+        "BBA Program cost",
+        "Business Administration Tuition Fee",
+        "BBA Studies",
+        "BBA Course Fees"
+      ],
+      "patterns": [
+        "BBA tuition fee",
+        "What is the fee for BBA?",
+        "What is the tuition fee for the Bachelor of Business Administration (BBA) program?",
+        "Can you provide details about the breakdown of tuition fees for each semester in the BBA course?",
+        "How much do I need to pay for the Bachelor of Business Administration program?",
+        "Are there any additional fees apart from the tuition for the BBA program?",
+        "Tell me about the fee structure for the Bachelor of Business Administration program.",
+        "What are the payment options for tuition in the BBA program?",
+        "Can you break down the tuition fee for each semester in the BBA program?"
+      ],
+      "responses": [
+        "Credit: 143, Program Duration: 4 Years, Payable During Admission: 60200, Average Semester Fees: 90,000, Total Tuition Fees: 560,000, Total Program Fees: 743,200"
+      ]
+    },
+    {
+      "tag": [
+        "Master of Business Administration (MBA)",
+        "MBA Program cost",
+        "Business Administration Tuition Fee",
+        "MBA Studies",
+        "MBA Course Fees"
+      ],
+      "patterns": [
+        "MBA tuition fee",
+        "What is the fee for MBA?",
+        "What is the tuition fee for the Master of Business Administration (MBA) program?",
+        "Can you provide details about the breakdown of tuition fees for each semester in the MBA course?",
+        "How much do I need to pay for the Master of Business Administration program?",
+        "Are there any additional fees apart from the tuition for the MBA program?",
+        "Tell me about the fee structure for the Master of Business Administration program.",
+        "What are the payment options for tuition in the MBA program?",
+        "Can you break down the tuition fee for each semester in the MBA program?"
+      ],
+      "responses": [
+        "Credit: 40 - 69, Program Duration: 1-2 Years, Payable During Admission: 26125, Average Semester Fees: 70,000, Total Tuition Fees: 135,000 - 225,000, Total Program Fees: 183,625 - 307,500"
+      ]
+    },
+    {
+      "tag": [
+        "Master of Business Administration (Executive)",
+        "Executive MBA Program",
+        "Business Administration Executive Tuition Fee",
+        "Executive MBA Studies",
+        "Executive MBA Course Fees"
+      ],
+      "patterns": [
+        "Executive MBA tuition fee",
+        "What is the fee for Executive MBA?",
+        "What is the tuition fee for the Master of Business Administration (Executive) program?",
+        "Can you provide details about the breakdown of tuition fees for each semester in the Executive MBA course?",
+        "How much do I need to pay for the Master of Business Administration (Executive) program?",
+        "Are there any additional fees apart from the tuition for the Executive MBA program?",
+        "Tell me about the fee structure for the Master of Business Administration (Executive) program.",
+        "What are the payment options for tuition in the Executive MBA program?",
+        "Can you break down the tuition fee for each semester in the Executive MBA program?"
+      ],
+      "responses": [
+        "Credit: 48, Program Duration: 1.5 Years, Payable During Admission: 26125, Average Semester Fees: 70,000, Total Tuition Fees: 168,750, Total Program Fees: 222,625"
+      ]
+    },
+    {
+      "tag": [
+        "Bachelor of Business Studies in E-Business Management (BBS in E-Business Mgt.)",
+        "BBS in E-Business Management Program cost",
+        "E-Business Management Tuition Fee",
+        "BBS E-Business Studies",
+        "BBS in E-Business Management Course Fees"
+      ],
+      "patterns": [
+        "E-Business Management tuition fee",
+        "What is the fee for E-Business Management?",
+        "What is the tuition fee for the Bachelor of Business Studies in E-Business Management program?",
+        "Can you provide details about the breakdown of tuition fees for each semester in the BBS in E-Business Management course?",
+        "How much do I need to pay for the Bachelor of Business Studies in E-Business Management program?",
+        "Are there any additional fees apart from the tuition for the BBS in E-Business Management program?",
+        "Tell me about the fee structure for the Bachelor of Business Studies in E-Business Management program.",
+        "What are the payment options for tuition in the BBS in E-Business Management program?",
+        "Can you break down the tuition fee for each semester in the BBS in E-Business Management program?"
+      ],
+      "responses": [
+        "Credit: 142, Program Duration: 4 Years, Payable During Admission: 55800, Average Semester Fees: 70,000, Total Tuition Fees: 394,400, Total Program Fees: 583,920"
+      ]
+    },
+    {
+      "tag": [
+        "Bachelor of Real Estate (BRE)",
+        "BRE Program cost",
+        "Real Estate Tuition Fee",
+        "BRE Studies",
+        "BRE Course Fees"
+      ],
+      "patterns": [
+        "Real Estate tuition fee",
+        "What is the fee for Real Estate?",
+        "What is the tuition fee for the Bachelor of Real Estate (BRE) program?",
+        "Can you provide details about the breakdown of tuition fees for each semester in the BRE course?",
+        "How much do I need to pay for the Bachelor of Real Estate program?",
+        "Are there any additional fees apart from the tuition for the BRE program?",
+        "Tell me about the fee structure for the Bachelor of Real Estate program.",
+        "What are the payment options for tuition in the BRE program?",
+        "Can you break down the tuition fee for each semester in the BRE program?"
+      ],
+      "responses": [
+        "Credit: 144, Program Duration: 4 Years, Payable During Admission: 60600, Average Semester Fees: 78,000, Total Tuition Fees: 469,000, Total Program Fees: 655,200"
+      ]
+    },
+    {
+      "tag": [
+        "Bachelor of Tourism & Hospitality Management (BTHM)",
+        "BTHM Program cost",
+        "Tourism & Hospitality Tuition Fee",
+        "BTHM Studies",
+        "BTHM Course Fees"
+      ],
+      "patterns": [
+        "BTHM tuition fee",
+        "Bachelor of Tourism & Hospitality Management tuition fee",
+        "What is the fee for BTHM?",
+        "What is the tuition fee for the Bachelor of Tourism & Hospitality Management (BTHM) program?",
+        "Can you provide details about the breakdown of tuition fees for each semester in the BTHM course?",
+        "How much do I need to pay for the Bachelor of Tourism & Hospitality Management program?",
+        "Are there any additional fees apart from the tuition for the BTHM program?",
+        "Tell me about the fee structure for the Bachelor of Tourism & Hospitality Management program.",
+        "What are the payment options for tuition in the BTHM program?",
+        "Can you break down the tuition fee for each semester in the BTHM program?"
+      ],
+      "responses": [
+        "Credit: 146, Program Duration: 4 Years, Payable During Admission: 58600, Average Semester Fees: 74,000, Total Tuition Fees: 413,300, Total Program Fees: 617,500"
+      ]
+    },
+    {
+      "tag": [
+        "Bachelor of Entrepreneurship (BE)",
+        "BE Program cost",
+        "Entrepreneurship Tuition Fee",
+        "BE Studies",
+        "BE Course Fees"
+      ],
+      "patterns": [
+        "BE tuition fee",
+        "Bachelor of Entrepreneurship tuition fee",
+        "What is the fee for BE?",
+        "What is the tuition fee for the Bachelor of Entrepreneurship (BE) program?",
+        "Can you provide details about the breakdown of tuition fees for each semester in the BE course?",
+        "How much do I need to pay for the Bachelor of Entrepreneurship program?",
+        "Are there any additional fees apart from the tuition for the BE program?",
+        "Tell me about the fee structure for the Bachelor of Entrepreneurship program.",
+        "What are the payment options for tuition in the BE program?",
+        "Can you break down the tuition fee for each semester in the BE program?"
+      ],
+      "responses": [
+        "Credit: 141, Program Duration: 4 Years, Payable During Admission: 57200, Average Semester Fees: 70,000, Total Tuition Fees: 434,000, Total Program Fees: 682,100"
+      ]
+    },
+    {
+      "tag": [
+        "B.A. (Hons) in English",
+        "English Hons Program",
+        "B.A. English Tuition Fee",
+        "English Hons Studies",
+        "B.A. (Hons) English Course Fees"
+      ],
+      "patterns": [
+        "English tuition fee",
+        "What is the fee for English?",
+        "What is the tuition fee for the B.A. (Hons) in English program?",
+        "Can you provide details about the breakdown of tuition fees for each semester in the English Hons course?",
+        "How much do I need to pay for the B.A. (Hons) in English program?",
+        "Are there any additional fees apart from the tuition for the English Hons program?",
+        "Tell me about the fee structure for the B.A. (Hons) in English program.",
+        "What are the payment options for tuition in the English Hons program?",
+        "Are there any scholarships available to offset the tuition costs for English Hons students?",
+        "Can you break down the tuition fee for each semester in the B.A. (Hons) in English program?"
+      ],
+      "responses": [
+        "Credit: 140, Program Duration: 4 Years, Payable During Admission: 57000, Average Semester Fees: 75,000, Total Tuition Fees: 436,800, Total Program Fees: 620,000"
+      ]
+    },
+    {
+      "tag": [
+        "M.A. in English",
+        "M.A. English Program cost",
+        "English Master's Tuition Fee",
+        "M.A. English Studies",
+        "M.A. in English Course Fees"
+      ],
+      "patterns": [
+        "MA English tuition fee",
+        "What is the fee for MA in English?",
+        "What is the tuition fee for the M.A. in English program?",
+        "Can you provide details about the breakdown of tuition fees for each semester in the M.A. English course?",
+        "How much do I need to pay for the M.A. in English program?",
+        "Are there any additional fees apart from the tuition for the M.A. English program?",
+        "Tell me about the fee structure for the M.A. in English program.",
+        "What are the payment options for tuition in the M.A. English program?",
+        "Can you break down the tuition fee for each semester in the M.A. in English program?"
+      ],
+      "responses": [
+        "Credit: 40, Program Duration: 1 Year, Payable During Admission: 26625, Average Semester Fees: 55,000, Total Tuition Fees: 80,000, Total Program Fees: 115,250"
+      ]
+    },
+    {
+      "tag": [
+        "LL.B. (Hons.)",
+        "LL.B. Hons. Program",
+        "Law Bachelor's Tuition Fee",
+        "LL.B. Hons. Studies",
+        "law tuition fee",
+        "LL.B. (Hons.) Course Fees"
+      ],
+      "patterns": [
+        "LL.B. tuition fee",
+        "What is the fee for LL.B. (Hons.)?",
+        "law tuition fee",
+        "What is the tuition fee for the LL.B. (Hons.) program?",
+        "Can you provide details about the breakdown of tuition fees for each semester in the LL.B. Hons. course?",
+        "How much do I need to pay for the LL.B. (Hons.) program?",
+        "Are there any additional fees apart from the tuition for the LL.B. Hons. program?",
+        "Tell me about the fee structure for the LL.B. (Hons.) program.",
+        "What are the payment options for tuition in the LL.B. Hons. program?",
+        "Can you break down the tuition fee for each semester in the LL.B. (Hons.) program?"
+      ],
+      "responses": [
+        "Credit: 144, Program Duration: 4 Years, Payable During Admission: 242700, Average Semester Fees: 1,04,000, Total Tuition Fees: 6,84,000, Total Program Fees: 8,54,200"
+      ]
+    },
+    {
+      "tag": [
+        "LL.M. (One Year)",
+        "LL.M. One Year Program",
+        "One-Year Law Master's Tuition Fee",
+        "LL.M. One Year Studies",
+        "LL.M. (One Year) Course Fees "
+      ],
+      "patterns": [
+        "LL.M. tuition fee",
+        "master in law tuition fee?",
+        "master one year in law tuition fee?",
+        "What is the fee for LL.M. (One Year)?",
+        "What is the tuition fee for the LL.M. (One Year) program?",
+        "Can you provide details about the breakdown of tuition fees for each semester in the LL.M. One Year course?",
+        "How much do I need to pay for the LL.M. (One Year) program?",
+        "Are there any additional fees apart from the tuition for the LL.M. One Year program?",
+        "Tell me about the fee structure for the LL.M. (One Year) program.",
+        "What are the payment options for tuition in the LL.M. One Year program?",
+        "Can you break down the tuition fee for each semester in the LL.M. (One Year) program?"
+      ],
+      "responses": [
+        "Credit: 40, Program Duration: 1 Year, Payable During Admission: 26625, Average Semester Fees: 55,000, Total Tuition Fees: 80,000, Total Program Fees: 115,250"
+      ]
+    },
+    {
+      "tag": [
+        "BSS in Journalism, Media and Communication (JMC)",
+        "JMC Program cost",
+        "Journalism and Media Tuition Fee",
+        "BSS in JMC tuition fee",
+        "JMC Course Fees"
+      ],
+      "patterns": [
+        "JMC tuition fee",
+        "Journalism, Media and Communication tuition fee",
+        "What is the fee for JMC?",
+        "What is the tuition fee for the BSS in Journalism, Media and Communication (JMC) program?",
+        "Can you provide details about the breakdown of tuition fees for each semester in the JMC course?",
+        "How much do I need to pay for the BSS in Journalism, Media and Communication program?",
+        "Are there any additional fees apart from the tuition for the JMC program?",
+        "Tell me about the fee structure for the BSS in Journalism, Media and Communication program.",
+        "What are the payment options for tuition in the JMC program?",
+        "Can you break down the tuition fee for each semester in the BSS in Journalism, Media and Communication program?"
+      ],
+      "responses": [
+        "Credit: 142, Program Duration: 4 Years, Payable During Admission: 57100, Average Semester Fees: 66,000, Total Tuition Fees: 3,34,400, Total Program Fees: 5,53,600"
+      ]
+    },
+    {
+      "tag": [
+        "MSS in Journalism, Media and Communication (JMC)",
+        "JMC Master's Program",
+        "Media and Communication Master's Tuition Fee",
+        "MSS in JMC Studies",
+        "MSS in JMC Course Fees"
+      ],
+      "patterns": [
+        "MSS JMC tuition fee",
+        "MSS Journalism, Media and Communication tuition fee",
+        "What is the fee for MSS in JMC?",
+        "What is the tuition fee for the MSS in Journalism, Media and Communication (JMC) program?",
+        "Can you provide details about the breakdown of tuition fees for each semester in the JMC course?",
+        "How much do I need to pay for the MSS in Journalism, Media and Communication program?",
+        "Are there any additional fees apart from the tuition for the JMC program?",
+        "Tell me about the fee structure for the MSS in Journalism, Media and Communication program.",
+        "What are the payment options for tuition in the JMC program?",
+        "Can you break down the tuition fee for each semester in the MSS in Journalism, Media and Communication program?"
+      ],
+      "responses": [
+        "Credit: 40, Program Duration: 1 Year, Payable During Admission: 28625, Average Semester Fees: 60,000, Total Tuition Fees: 74,000, Total Program Fees: 121,250"
+      ]
+    },
+    {
+      "tag": [
+        "Master of Development Studies (MDS)",
+        "MDS Master's Program",
+        "Development Studies Master's Tuition Fee",
+        "MDS Studies",
+        "MDS Course Fees"
+      ],
+      "patterns": [
+        "MDS tuition fee",
+        "Master of Development Studies tuition fee",
+        "What is the fee for MDS?",
+        "What is the tuition fee for the Master of Development Studies (MDS) program?",
+        "Can you provide details about the breakdown of tuition fees for each semester in the MDS course?",
+        "How much do I need to pay for the Master of Development Studies program?",
+        "Are there any additional fees apart from the tuition for the MDS program?",
+        "Tell me about the fee structure for the Master of Development Studies program.",
+        "What are the payment options for tuition in the MDS program?",
+        "Are there any scholarships available to offset the tuition costs for MDS students?",
+        "Can you break down the tuition fee for each semester in the Master of Development Studies program?"
+      ],
+      "responses": [
+        "Credit: 60, Program Duration: 3 Semesters, Payable During Admission: 26625, Average Semester Fees: 55,000, Total Tuition Fees: 112,000, Total Program Fees: 167,875"
+      ]
+    },
+    {
+      "tag": [
+        "Post Graduate Diploma in Information Science and Library Management (PGD in ISLM)",
+        "PGD in ISLM Program",
+        "Information Science and Library Management Diploma Tuition Fee",
+        "PGD in ISLM Studies",
+        "PGD in ISLM Course Fees"
+      ],
+      "patterns": [
+        "PGD ISLM tuition fee",
+        "What is the fee for PGD in ISLM?",
+        "What is the tuition fee for the Post Graduate Diploma in Information Science and Library Management (PGD in ISLM) program?",
+        "Can you provide details about the breakdown of tuition fees for each semester in the PGD in ISLM course?",
+        "How much do I need to pay for the Post Graduate Diploma in Information Science and Library Management program?",
+        "Are there any additional fees apart from the tuition for the PGD in ISLM program?",
+        "Tell me about the fee structure for the Post Graduate Diploma in Information Science and Library Management program.",
+        "What are the payment options for tuition in the PGD in ISLM program?",
+        "Can you break down the tuition fee for each semester in the Post Graduate Diploma in Information Science and Library Management program?"
+      ],
+      "responses": [
+        "Credit: 36, Program Duration: 1 Year, Payable During Admission: 22000, Average Semester Fees: 35,000, Total Tuition Fees: 76,000"
+      ]
+    },
+    {
+      "tag": [
+        "B.Sc. in Information & Communication Engineering (ICE)",
+        "ICE Program",
+        "Information & Communication Engineering Tuition Fee",
+        "B.Sc. in ICE Studies",
+        "ICE Course Fees"
+      ],
+      "patterns": [
+        "ICE tuition fee",
+        "What is the fee for ICE?",
+        "What is the tuition fee for the B.Sc. in Information & Communication Engineering (ICE) program?",
+        "Can you provide details about the breakdown of tuition fees for each semester in the ICE course?",
+        "How much do I need to pay for the B.Sc. in Information & Communication Engineering program?",
+        "Are there any additional fees apart from the tuition for the ICE program?",
+        "Tell me about the fee structure for the B.Sc. in Information & Communication Engineering program.",
+        "What are the payment options for tuition in the ICE program?",
+        "Can you break down the tuition fee for each semester in the B.Sc. in Information & Communication Engineering program?"
+      ],
+      "responses": [
+        "Credit: 145, Program Duration: 4 Years, Payable During Admission: 54800, Average Semester Fees: 82,000, Total Tuition Fees: 4,68,750, Total Program Fees: 6,76,950"
+      ]
+    },
+    {
+      "tag": [
+        "M.Sc. in Electronics and Telecommunication Engineering (ETE) (Thesis/Project)",
+        "ETE (Thesis/Project) Master's Program",
+        "Electronics and Telecommunication Engineering Master's Tuition Fee",
+        "M.Sc. in ETE (Thesis/Project) Studies",
+        "Telecommunication Engineering Thesis Costs",
+        "ETE (Thesis/Project) Course Fees"
+      ],
+      "patterns": [
+        "ETE tuition fee",
+        "What is the fee for ETE (Thesis/Project)?",
+        "What is the tuition fee for the M.Sc. in Electronics and Telecommunication Engineering (ETE) (Thesis/Project) program?",
+        "Can you provide details about the breakdown of tuition fees for each semester in the ETE (Thesis/Project) course?",
+        "How much do I need to pay for the M.Sc. in Electronics and Telecommunication Engineering program with a thesis/project?",
+        "Are there any additional fees apart from the tuition for the ETE (Thesis/Project) program?",
+        "Tell me about the fee structure for the M.Sc. in Electronics and Telecommunication Engineering program with a thesis/project.",
+        "What are the payment options for tuition in the ETE (Thesis/Project) program?",
+        "Can you break down the tuition fee for each semester in the M.Sc. in Electronics and Telecommunication Engineering program with a thesis/project?"
+      ],
+      "responses": [
+        "Credit: 40, Program Duration: 1.5 Years, Payable During Admission: 26125, Average Semester Fees: 65,000, Total Tuition Fees: 60,000, Total Program Fees: 1,50,375"
+      ]
+    },
+    {
+      "tag": [
+        "B.Sc. in Textile Engineering (TE)",
+        "TE Program cost",
+        "Textile Engineering Tuition Fee",
+        "B.Sc. in TE Studies",
+        "TE Course Fees"
+      ],
+      "patterns": [
+        "TE tuition fee",
+        "What is the fee for TE?",
+        "What is the tuition fee for the B.Sc. in Textile Engineering (TE) program?",
+        "Can you provide details about the breakdown of tuition fees for each semester in the TE course?",
+        "How much do I need to pay for the B.Sc. in Textile Engineering program?",
+        "Are there any additional fees apart from the tuition for the TE program?",
+        "Tell me about the fee structure for the B.Sc. in Textile Engineering program.",
+        "What are the payment options for tuition in the TE program?",
+        "Can you break down the tuition fee for each semester in the B.Sc. in Textile Engineering program?"
+      ],
+      "responses": [
+        "Credit: 154, Program Duration: 4 Years, Payable During Admission: 59200, Average Semester Fees: 85,000, Total Tuition Fees: 4,68,000, Total Program Fees: 7,04,200\nTE Prospectus[Click Here](https://daffodilvarsity.edu.bd/images/prospectus/BSc-in-TE.jpg)"
+      ]
+    },
+    {
+      "tag": [
+        "M.Sc. in Textile Engineering (TE)",
+        "TE Master's Program",
+        "Textile Engineering Master's Tuition Fee",
+        "M.Sc. in TE Studies",
+        "M.Sc. TE Course Fees"
+      ],
+      "patterns": [
+        "M.Sc. TE tuition fee",
+        "What is the fee for M.Sc. in TE?",
+        "What is the tuition fee for the M.Sc. in Textile Engineering (TE) program?",
+        "Can you provide details about the breakdown of tuition fees for each semester in the TE course?",
+        "How much do I need to pay for the M.Sc. in Textile Engineering program?",
+        "Are there any additional fees apart from the tuition for the TE program?",
+        "Tell me about the fee structure for the M.Sc. in Textile Engineering program.",
+        "What are the payment options for tuition in the TE program?",
+        "textile tuition fee?",
+        "Can you break down the tuition fee for each semester in the M.Sc. in Textile Engineering program?"
+      ],
+      "responses": [
+        "Credit: 40, Program Duration: 1.5 Years, Payable During Admission: 26125, Average Semester Fees: 60,000, Total Tuition Fees: 70,000, Total Program Fees: 1,48,375"
+      ]
+    },
+    {
+      "tag": [
+        "B.Sc. in Electrical and Electronic Engineering (EEE)",
+        "EEE Program cost",
+        "Electrical and Electronic Engineering Tuition Fee",
+        "B.Sc. in EEE Studies",
+        "EEE Course Fees"
+      ],
+      "patterns": [
+        "EEE tuition fee",
+        "What is the fee for EEE?",
+        "What is the tuition fee for the B.Sc. in Electrical and Electronic Engineering (EEE) program?",
+        "Can you provide details about the breakdown of tuition fees for each semester in the EEE course?",
+        "How much do I need to pay for the B.Sc. in Electrical and Electronic Engineering program?",
+        "Are there any additional fees apart from the tuition for the EEE program?",
+        "Tell me about the fee structure for the B.Sc. in Electrical and Electronic Engineering program.",
+        "What are the payment options for tuition in the EEE program?",
+        "Can you break down the tuition fee for each semester in the B.Sc. in Electrical and Electronic Engineering program?"
+      ],
+      "responses": [
+        "Credit: 144, Program Duration: 4 Years, Payable During Admission: 58400, Average Semester Fees: 92,000, Total Tuition Fees: 5,30,500, Total Program Fees: 7,63,200\nEEE Prospectus[Click Here](https://daffodilvarsity.edu.bd/images/prospectus/BSc-in-EEE.jpg)"
+      ]
+    },
+    {
+      "tag": [
+        "Bachelor of Architecture (B. Arch.)",
+        "B. Arch. Program cost",
+        "Architecture Tuition Fee",
+        "Bachelor of Architecture Studies",
+        "Architectural tuiton fee Costs",
+        "B. Arch. Course Fees"
+      ],
+      "patterns": [
+        "B. Arch. tuition fee",
+        "Architecture tuition fee",
+        "Architectural tuition fee",
+        "What is the fee for B. Arch.?",
+        "What is the tuition fee for the Bachelor of Architecture (B. Arch.) program?",
+        "Can you provide details about the breakdown of tuition fees for each semester in the B. Arch. course?",
+        "How much do I need to pay for the Bachelor of Architecture program?",
+        "Are there any additional fees apart from the tuition for the B. Arch. program?",
+        "Tell me about the fee structure for the Bachelor of Architecture program.",
+        "What are the payment options for tuition in the B. Arch. program?",
+        "Can you break down the tuition fee for each semester in the Bachelor of Architecture program?"
+      ],
+      "responses": [
+        "Credit: 194, Program Duration: 5 Years, Payable During Admission: 55100, Average Semester Fees: 85,000, Total Tuition Fees: 6,17,700, Total Program Fees: 8,72,700\nArchitecture Prospectus[Click Here](https://daffodilvarsity.edu.bd/images/prospectus/Architecture.jpg)"
+      ]
+    },
+    {
+      "tag": [
+        "B.Sc. in Civil Engineering (CE)",
+        "CE Program cost",
+        "Civil Engineering Tuition Fee",
+        "Bachelor of Civil Engineering Studies",
+        "CE Course Fees"
+      ],
+      "patterns": [
+        "CE tuition fee",
+        "What is the fee for CE?",
+        "What is the tuition fee for the B.Sc. in Civil Engineering (CE) program?",
+        "Can you provide details about the breakdown of tuition fees for each semester in the CE course?",
+        "How much do I need to pay for the B.Sc. in Civil Engineering program?",
+        "Are there any additional fees apart from the tuition for the CE program?",
+        "Tell me about the fee structure for the B.Sc. in Civil Engineering program.",
+        "What are the payment options for tuition in the CE program?",
+        "civil tuition fee",
+        "Can you break down the tuition fee for each semester in the B.Sc. in Civil Engineering program?"
+      ],
+      "responses": [
+        "Credit: 147, Program Duration: 4 Years, Payable During Admission: 59000, Average Semester Fees: 91,000, Total Tuition Fees: 5,26,750, Total Program Fees: 7,53,075\nCE Prospectus[Click Here](https://daffodilvarsity.edu.bd/images/prospectus/BSc-in-Civil-Eng.jpg)"
+      ]
+    },
+    {
+      "tag": [
+        "Bachelor of Pharmacy (B.Pharm)",
+        "B.Pharm Program cost",
+        "Pharmacy Tuition Fee",
+        "Bachelor of Pharmacy Studies",
+        "B.Pharm Course Fees"
+      ],
+      "patterns": [
+        "B.Pharm tuition fee",
+        "pharmacy tuition fee",
+        "What is the fee for B.Pharm?",
+        "What is the tuition fee for the Bachelor of Pharmacy (B.Pharm) program?",
+        "Can you provide details about the breakdown of tuition fees for each semester in the B.Pharm course?",
+        "How much do I need to pay for the Bachelor of Pharmacy program?",
+        "Are there any additional fees apart from the tuition for the B.Pharm program?",
+        "Tell me about the fee structure for the Bachelor of Pharmacy program.",
+        "What are the payment options for tuition in the B.Pharm program?",
+        "Can you break down the tuition fee for each semester in the Bachelor of Pharmacy program?"
+      ],
+      "responses": [
+        "Credit: 162, Program Duration: 4 Years, Payable During Admission: 275000, Average Semester Fees: 1,22,500, Total Tuition Fees: 7,52,200, Total Program Fees: 10,08,200\nPharmacy Prospectus[Click Here](https://daffodilvarsity.edu.bd/images/prospectus/BPharm.jpg)"
+      ]
+    },
+    {
+      "tag": [
+        "Master of Pharmacy (M. Pharm.)",
+        "M. Pharm. Program cost",
+        "Pharmacy Master's Tuition Fee",
+        "Master of Pharmacy Studies",
+        "M. Pharm. Course Fees"
+      ],
+      "patterns": [
+        "M. Pharm. tuition fee",
+        "master of pharmacy tuition fee",
+        "What is the fee for M. Pharm.?",
+        "What is the tuition fee for the Master of Pharmacy (M. Pharm.) program?",
+        "Can you provide details about the breakdown of tuition fees for each semester in the M. Pharm. course?",
+        "How much do I need to pay for the Master of Pharmacy program?",
+        "Are there any additional fees apart from the tuition for the M. Pharm. program?",
+        "Tell me about the fee structure for the Master of Pharmacy program.",
+        "What are the payment options for tuition in the M. Pharm. program?",
+        "Can you break down the tuition fee for each semester in the Master of Pharmacy program?"
+      ],
+      "responses": [
+        "Credit: 40, Program Duration: 1 Year, Payable During Admission: 30125, Average Semester Fees: 95,000, Total Tuition Fees: 94,500 - 117,000, Total Program Fees: 204,750"
+      ]
+    },
+    {
+      "tag": [
+        "Bachelor of Nutrition and Food Engineering (NFE)",
+        "NFE Program cost",
+        "Nutrition and Food Engineering Tuition Fee",
+        "Bachelor of Nutrition Studies",
+        "NFE Course Fees"
+      ],
+      "patterns": [
+        "NFE tuition fee",
+        "What is the fee for NFE?",
+        "What is the tuition fee for the Bachelor of Nutrition and Food Engineering (NFE) program?",
+        "Can you provide details about the breakdown of tuition fees for each semester in the NFE course?",
+        "How much do I need to pay for the Bachelor of Nutrition and Food Engineering program?",
+        "Are there any additional fees apart from the tuition for the NFE program?",
+        "Tell me about the fee structure for the Bachelor of Nutrition and Food Engineering program.",
+        "What are the payment options for tuition in the NFE program?",
+        "Can you break down the tuition fee for each semester in the Bachelor of Nutrition and Food Engineering program?"
+      ],
+      "responses": [
+        "Credit: 151, Program Duration: 4 Years, Payable During Admission: 53450, Average Semester Fees: 75,000, Total Tuition Fees: 4,08,750, Total Program Fees: 6,20,450\nNFE Prospectus[Click Here](https://daffodilvarsity.edu.bd/images/prospectus/Bachelor.-in-NFE.jpg)"
+      ]
+    },
+    {
+      "tag": [
+        "Master of Public Health (MPH)",
+        "MPH Program cost",
+        "Public Health Master's Tuition Fee",
+        "Master of Public Health Studies",
+        "MPH Course Fees"
+      ],
+      "patterns": [
+        "MPH tuition fee",
+        "master of public health tuition fee",
+        "What is the fee for MPH?",
+        "What is the tuition fee for the Master of Public Health (MPH) program?",
+        "Can you provide details about the breakdown of tuition fees for each semester in the MPH course?",
+        "How much do I need to pay for the Master of Public Health program?",
+        "Are there any additional fees apart from the tuition for the MPH program?",
+        "Tell me about the fee structure for the Master of Public Health program.",
+        "What are the payment options for tuition in the MPH program?",
+        "Can you break down the tuition fee for each semester in the Master of Public Health program?"
+      ],
+      "responses": [
+        "Credit: 52, Program Duration: 2-3 Semesters, Payable During Admission: 27625, Average Semester Fees: 95,000, Total Tuition Fees: 136,500, Total Program Fees: 206,250 - 215,873"
+      ]
+    },
+    {
+      "tag": [
+        "Bachelor of Public Health (BPH)",
+        "BPH Program cost",
+        "Public Health Bachelor's Tuition Fee",
+        "Bachelor of Public Health Studies",
+        "BPH Course Fees"
+      ],
+      "patterns": [
+        "BPH tuition fee",
+        "Public Health tuition fee",
+        "What is the fee for BPH?",
+        "What is the tuition fee for the Bachelor of Public Health (BPH) program?",
+        "Can you provide details about the breakdown of tuition fees for each semester in the BPH course?",
+        "How much do I need to pay for the Bachelor of Public Health program?",
+        "Are there any additional fees apart from the tuition for the BPH program?",
+        "Tell me about the fee structure for the Bachelor of Public Health program.",
+        "What are the payment options for tuition in the BPH program?",
+        "Can you break down the tuition fee for each semester in the Bachelor of Public Health program?"
+      ],
+      "responses": [
+        "Credit: 142, Program Duration: 4 Years, Payable During Admission: 54600, Average Semester Fees: 70,000, Total Tuition Fees: 3,58,400, Total Program Fees: 5,86,600"
+      ]
+    },
+    {
+      "tag": [
+        "B.Sc. in Agricultural Science",
+        "Agricultural Science Program cost",
+        "Agricultural Science Bachelor's Tuition Fee",
+        "Bachelor of Agricultural Science Studies",
+        "agriculture tuition fee",
+        "B.Sc. Agricultural Science Course Fees"
+      ],
+      "patterns": [
+        "Agricultural Science tuition fee",
+        "agriculture tuition fee",
+        "What is the fee for Agricultural Science?",
+        "What is the tuition fee for the B.Sc. in Agricultural Science program?",
+        "Can you provide details about the breakdown of tuition fees for each semester in the Agricultural Science course?",
+        "How much do I need to pay for the B.Sc. in Agricultural Science program?",
+        "Are there any additional fees apart from the tuition for the Agricultural Science program?",
+        "Tell me about the fee structure for the B.Sc. in Agricultural Science program.",
+        "What are the payment options for tuition in the Agricultural Science program?",
+        "Can you break down the tuition fee for each semester in the B.Sc. in Agricultural Science program?"
+      ],
+      "responses": [
+        "Credit: 150, Program Duration: 4 Years, Payable During Admission: 51950, Average Semester Fees: 72,000, Total Tuition Fees: 4,16,250, Total Program Fees: 6,03,450"
+      ]
+    }
+  ]
+}

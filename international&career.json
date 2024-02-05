@@ -1,0 +1,56 @@
+{
+    "intents": [
+        {
+            "_comment": "diu career services",
+            "tag": [
+                "career",
+                "career service",
+                "career services",
+                "cdc",
+                "internship"
+            ],
+            "patterns": [
+                "Tell me about career services at DIU.",
+                "How can the Career Development Center (CDC) assist me?",
+                "What career support is available for students?",
+                "Give me information on job opportunities.",
+                "How do I access career counseling services?",
+                "diu internship opportunities",
+                "internship opportunity",
+                "student internship at diu",
+                "Tell me about internships offered by the university.",
+                "What workshops or events does the CDC organize?",
+                "Can you provide tips for resume building?",
+                "How does the university help with job placements?",
+                "Diu career services",
+                "Diu career service",
+                "CDC",
+                "Tell me about alumni success stories in careers."
+            ],
+            "responses": [
+                "DIU has career development center.Provides:\nJob Placement[Click Here](https://cdc.daffodilvarsity.edu.bd/index.php/services/placement/job-placement1)\nInternship[Click Here](https://cdc.daffodilvarsity.edu.bd/index.php/services/placement/internship)\nTraining & Workshops[Click Here](https://cdc.daffodilvarsity.edu.bd/index.php/services/training-workshops)\nCorporate Linkage[Click Here](https://cdc.daffodilvarsity.edu.bd/index.php/others/corporate-linkage)\n\nMore Details[Visit this](https://cdc.daffodilvarsity.edu.bd/index.php)\n\nContacts:\nCell: +8801847334707\nE-mail: cdc@daffodilvarsity.edu.bd"
+            ]
+        },
+        {
+            "_comment": "international students admission",
+            "tag": [
+                "international student",
+                "international",
+                "international students"
+            ],
+            "patterns": [
+                "What services are available for international students?",
+                "Tell me about the international student admission process.",
+                "Are there any specific scholarships for international students?",
+                "How can I apply as an international student?",
+                "Can you provide information on housing or hostel options for international students?",
+                "What are the admission requirements for international applicants?",
+                "Are there orientation programs for new international students?",
+                ""
+            ],
+            "responses": [
+                "INTERNATIONAL TUITION FEE[click here](https://daffodilvarsity.edu.bd/int-tuition-fees)\nSCHOLARSHIP INTERNATIONAL[click here](https://daffodilvarsity.edu.bd/int-scholarship/scholarship-int)\nADMISSION CONTACT FOR INTERNATIONAL STUDENTS[click here](https://daffodilvarsity.edu.bd/international/international-contact)\nHOSTEL INFORMATION[click here](https://hall.daffodilvarsity.edu.bd/)\n\nMore Information[Visit this](https://daffodilvarsity.edu.bd/admission)"
+            ]
+        }
+    ]
+}

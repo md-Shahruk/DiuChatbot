@@ -1,0 +1,460 @@
+{
+  "intents": [
+    {
+      "tag": [
+        "Cyber Bullying",
+        "diu cyber bullying",
+        "ragging"
+      ],
+      "patterns": [
+        " What is cyber bullying?",
+        " How is cyber bullying defined at the university?",
+        " When does cyber bullying fall under this policy?",
+        "how diu protect cyber bullying issue?",
+        "Coc of cyber bullying",
+        "rules of ragging",
+        "ragging activities",
+        "is there any ragging",
+        "punishment of ragging?",
+        "punishment for ragging?",
+        "code of conduct of ragging?",
+        "code of conduct of cyber bullying"
+      ],
+      "responses": [
+        "Cyber  Bullying or Ragging is  the  use  of  electronic communication to bully a person. It falls under this policy if the bullying is between students AND  occurs  on  the  university  premises/ surroundings areas of  university  OR adversely affects the safety of students while in university.\n>Minor: Warning letter with Calling Guardian.\n>Medium: Disciplinary.\n>Major: Disciplinary Expulsion"
+      ]
+    },
+    {
+      "tag": [
+        "Violence Physical Abuse",
+        "violence",
+        "physical abuse"
+      ],
+      "patterns": [
+        " What is considered physical abuse?",
+        "Can you provide examples of physical abuse?",
+        "how diu protect physical abuse crime?",
+        "how diu protect physical abuse ",
+        "coc of physical abuse",
+        "code of conduct of physical abuse",
+        "how diu tackle violence"
+      ],
+      "responses": [
+        "Any act of physical violence such as beating, kicking, and unwanted physical contact by any member of the University or their agents is an act of physical abuse.\n>Minor:  Verbal warning ,Warning letter with Calling guardian.\n>Medium: Disciplinary Probation.\n>Major: Disciplinary Expulsion."
+      ]
+    },
+    {
+      "tag": [
+        "Intolerance/Racism",
+        "intolerance",
+        "tease",
+        "eve teasing",
+        "racism"
+      ],
+      "patterns": [
+        " What is expected of members regarding tolerance and respect?",
+        " Can you explain the concept of intolerance further?",
+        "how diu protest racism",
+        "how diu protect racism intolerance",
+        "coc of racism intolerance",
+        " punishment for eve teasing",
+        "code of conduct of racism intolerance"
+      ],
+      "responses": [
+        "All members of the University are expected to be tolerant   and   respectful   towards   others irrespective of race, religion, class, gender creed or status in the University or with the community at large. Any attitude or conduct of an individual or group of individuals failing to be so respectful\nand tolerant and disrespect to others is an act of intolerance.\n>Minor: Verbal Warning with Disciplinary Expulsion.\n>Medium: Disciplinary Probation.\n>Major: Disciplinary Expulsion."
+      ]
+    },
+    {
+      "tag": [
+        "False / Frivolous Complaints",
+        "spread false complain",
+        "complain false"
+      ],
+      "patterns": [
+        " What is considered a false or frivolous complaint?",
+        "how diu protest false complaints complain",
+        "how diu protect spread false complain",
+        "coc of false complaints",
+        "code of conduct of false complains complain"
+      ],
+      "responses": [
+        "Making  a  complaint  to  the  University\nauthority in an attempt to mislead, misuse or impede  university protocols  is  a false or frivolous complaint.\n>Minor: Verbal Warning with Disciplinary Probation or Warning letter.\n>Medium: DSP   "
+      ]
+    },
+    {
+      "tag": [
+        "Fraud/Deception",
+        "fraud",
+        "deception"
+      ],
+      "patterns": [
+        " What constitutes fraud or deception at the university?",
+        "how diu protest fraud activities",
+        "how diu protect spread false deception",
+        "coc of fraud deception",
+        "code of conduct of fraud deception"
+      ],
+      "responses": [
+        "Providing false information in order to derive benefit by forging of documents, records, etc. is an act of fraud. Fraud includes, but not limited to: knowingly reporting a false emergency; misuse\nor falsification of university or related documents by actions such as forgery, alteration, or improper transfer; submission of information known by the submitter to be false to a university official.\n>Minor: Warning Letter.\n>Medium: DSP.\n>Major: Disciplinary Expulsion."
+      ]
+    },
+    {
+      "tag": [
+        "Dress Code"
+      ],
+      "patterns": [
+        " What are the dress code requirements for students at the university?",
+        "Maintain dress code",
+        "is indecent dress up allow?",
+        "what should maintain dress up?",
+        "coc of dress up?",
+        "dress up"
+      ],
+      "responses": [
+        "All  students  should  wear  clean  and  decent dresses.  No  student  should  come  to  DIU premises wearing any indecent dresses.\nMinor: Warning letter, Calling Guardina.\n>Medium: DSP."
+      ]
+    },
+    {
+      "tag": [
+        "Disorder/Agitation",
+        "disorder",
+        "agitation"
+      ],
+      "patterns": [
+        " What is considered an act of disorder or agitation at the university?",
+        "how diu protest any disorder or agitation",
+        "how diu protect disorder",
+        "coc of disorder or agitation",
+        "code of conduct of disorder"
+      ],
+      "responses": [
+        "Riot or incitement to riot, application of force or coercion or organizing meetings/procession/demonstrations intended to solicit support or obtain signatures to show support or compel any member of the University to participate in activities subversive of discipline or of functioning of University is an act of disorder or agitation.\n>Minor: Warning Letter.\n>Medium: DSP.\n>Major: Disciplinary Expulsion. "
+      ]
+    },
+    {
+      "tag": [
+        "Disorderly Behavior",
+        "aggressive behavior",
+        "misconduct"
+      ],
+      "patterns": [
+        "What constitutes disorderly behavior according to university rules?",
+        "What constitutes aggressive behavior according to university rules?",
+        "how diu protect aggressive activities",
+        "how diu protect disorderly behavior",
+        "coc of disorderly behavior",
+        "unfortunately i am suddenly misconduct with teacher now what is waiting for me?",
+        "code of conduct of aggressive behavior"
+      ],
+      "responses": [
+        "Any breach of University rules, regulations or policies is an act of disorderly behavior.\n>Minor: Warning Letter.\n>Medium: Disciplinary Probation.\n>Major: DEP."
+      ]
+    },
+    {
+      "tag": [
+        "Disruption",
+        "breaking something",
+        "damage something"
+      ],
+      "patterns": [
+        " What is considered disruption at the university?",
+        "if i damage something in my varsity what should punish waiting for me?",
+        " punishment for disruption or damage things, breaking something?",
+        "coc of disruption breaking something",
+        "code of conduct of disruption, damage, breaking"
+      ],
+      "responses": [
+        "Disruption is an act or a combination of actions by an individual or a group of individuals, who interfere with the smooth and regular functioning of  the  University.  Authorized  officers of the University have the right to restrain or prohibit such disruptive behavior and take such other action as may be deemed fit and proper.\n>Minor: Warning Letter, DP,Monetary Fine.\n>Medium: DSP, Compensation of the university.\n>Major: DEP."
+      ]
+    },
+    {
+      "tag": [
+        "Disobedience",
+        "not obey rules"
+      ],
+      "patterns": [
+        "Q: What is considered an act of disobedience according to university rules?",
+        "if any one not obey rules then ?",
+        "not maintain rules?",
+        "disrespect varsity rules?",
+        "coc of disobedience",
+        "code of conduct of disobedience"
+      ],
+      "responses": [
+        "Failure or refusal to obey University rules or someone in authority is an act of disobedience.\n>Minor: Warning Letter & CG.\n>Medium: DSP.\n>Major: Disciplinary Expulsion."
+      ]
+    },
+    {
+      "tag": [
+        "Unauthorized Recording"
+      ],
+      "patterns": [
+        " What is unauthorized recording at the university?",
+        "is there any punishment for unauthorized recording?",
+        "coc of unauthorized recording",
+        "code of conduct of unauthorized recording"
+      ],
+      "responses": [
+        "Recording,  storage,  sharing,  distribution  of images, videos or sound by any means without consent is unauthorized recording and is strictly prohibited in the University.\n>Minor: Verbal Warning,WL,Calling Guardian & DP.\n>Medium: DSP."
+      ]
+    },
+    {
+      "tag": [
+        "Misuse of ID",
+        "not wearing id card"
+      ],
+      "patterns": [
+        "Q: What are the rules regarding the misuse of ID at the university?",
+        "if any rules for misuse of id card",
+        "misuse of id number?",
+        "dont obey id card rules?",
+        "not hanging id card",
+        "coc of id card",
+        "code of conduct id card",
+        "not wearing id card"
+      ],
+      "responses": [
+        "Students  should  not  enter  the  University premises without Identity Cards. A student may not voluntarily lend his or her ID to  another  person    for  any  reason.  Willfully lending  one's  ID  to  another  will  result  in disciplinary action for both the original student and the recipient.\n>Minor: Verbal Warning,MF=500Tk.\n>Medium: Warning Letter with MF=2000Tk MF can be charged or include with the students semester fees."
+      ]
+    },
+    {
+      "tag": [
+        "Academic Dishonesty/Plagiarism",
+        "copy exam",
+        "plagiarism",
+        "exam dishonesty"
+      ],
+      "patterns": [
+        " What constitutes academic dishonesty and plagiarism according to university rules?",
+        "if someone copy in the exam then ?",
+        "illegal activity in exam hall?",
+        "dont respect to academic activities?",
+        "refuse or not obey exam rules?",
+        "plagiarism",
+        "illegal exam quiz",
+        "coc of plagiarism academic dishonesty",
+        "code of conduct copy exam plagiarism academic dishonesty"
+      ],
+      "responses": [
+        "Cheating, presentation of someone else's work as your  own,  preparing  work  to  be  used  for someone's  works,  knowingly  furnishing  false information  about  academic  matters  to  an university    official    are    acts    of dishonesty.    Plagiarism  is    using    others' words, concepts, images, or intellectual property in  general  without clearly acknowledging the source of that information.\n>Minor: Warning Letter & CG.\n>Medium: Disciplinary Probation.\n>Major: DEP."
+      ]
+    },
+    {
+      "tag": [
+        "Copyright Infringement"
+      ],
+      "patterns": [
+        "Q: What is considered copyright infringement at the university?",
+        "copy something of diu",
+        "coc of Copyright Infringement",
+        "code of Copyright Infringement"
+      ],
+      "responses": [
+        "The   DIU   logo,   publications,  audio-visual productions and other media materials are the official property of the university. All creative works  of  students (even in the form of raw footage)  done under    offered courses considered as university property. One may not use the logo, video, photographs and other media materials without written authorization.\n>Minor: Warning Letter.\n>Medium: Compensation of the University.\n>Major: DSP."
+      ]
+    },
+    {
+      "tag": [
+        "Cyber-Crime",
+        "cyber crime"
+      ],
+      "patterns": [
+        " What constitutes cyber-crime at the university?",
+        "diu rules for cyber crime?",
+        "how diu protest cyber crime?",
+        "diu coc of cyber crime?",
+        "code of conduct of cyber crime"
+      ],
+      "responses": [
+        "Misbehavior  and  crimes  committed  through email,  blogs,  social  networking  sites,  DIU network or DIU Web Portal, or mobile phones such   as:    fraud, harassment,    pornography, indecent behavior, software and media piracy,\nweb-site vandalism, release of viruses or worms, spam, advertising, spying, hacking, and cyber-bullying.\n>Minor: Warning Letter & CG.\n>Medium: CPS & Disciplinary Probation.\n>Major: DEP."
+      ]
+    },
+    {
+      "tag": [
+        "Mischief",
+        "evil",
+        "harmful activities"
+      ],
+      "patterns": [
+        "Q: What is considered mischief at the university?",
+        "diu rules for harmful activities?",
+        "any evil activities",
+        "how diu protest mischief",
+        "coc of evil activities",
+        "coc of mischief?",
+        "code of conduct of harmful activities?",
+        "code of conduct of mischief"
+      ],
+      "responses": [
+        "Tampering  with  or  unauthorized  use  of  any University equipment or other properties such as doors,  locks,  computers,  'telephones,  lifts,projectors, etc. is an act of mischief.\n>Minor: Warning Letter,CG & MF.\n>Medium: CPS & DSP.\n>Major: DEP"
+      ]
+    },
+    {
+      "tag": [
+        "Possession of Weapons",
+        "weapon"
+      ],
+      "patterns": [
+        " What are the rules regarding the possession of weapons at the university?",
+        "if anyone or someone carry weapon in varsity area?",
+        "carry weapon",
+        "weapon",
+        "possession of weapons",
+        "coc of carry weapon",
+        "code of conduct of carry weapon"
+      ],
+      "responses": [
+        "Possession,  use,  or  stashing  of  any  kind  of firearms, explosives, harmful chemicals, knives, clubs, etc. is strictly prohibited in the University.\n>Minor:Warning Letter & CG.\n>Medium: DSP.\n>Major: Disciplinary Expulsion."
+      ]
+    },
+    {
+      "tag": [
+        "Theft",
+        "stole",
+        "stolen"
+      ],
+      "patterns": [
+        " What constitutes theft at the university?",
+        "if someone theft students laptop, phone,mobile?",
+        "if someone  or anyone stole varsity equipment, laptop, phone, bag?",
+        "stole ",
+        "theft",
+        "include with any theft activities",
+        "coc of theft",
+        "code of conduct of theft"
+      ],
+      "responses": [
+        "Misappropriation or removal of University property or the property of others without any lawful authority is an act of theft.\n>Minor: Warning Letter,CG.\n>Medium: DSP.\n>Major: Disciplinary Expulsion."
+      ]
+    },
+    {
+      "tag": [
+        "Damage of Property"
+      ],
+      "patterns": [
+        "What is considered damage of property at the university?",
+        "is i damage diu property?",
+        "damage class room, computer,projector",
+        "if damage vehicles  parts? ",
+        "if damage varsity construction?",
+        "damage varsity building",
+        "coc of damage property",
+        "code of conduct of damage property"
+      ],
+      "responses": [
+        "Vandalism, arson, willful act or reckless behavior leading to damage or destruction of University property or the property of others is damage of property.\n>Minor: Waring Letter, CG & CPS.\n>Medium: CPS & Disciplinary Probation.\n>Major: DEP."
+      ]
+    },
+    {
+      "tag": [
+        "Smoking",
+        "smoke"
+      ],
+      "patterns": [
+        " What are the rules regarding smoking at the university?",
+        "is diu allow smoking inside varsity? ",
+        "what is the rules of smoking?",
+        "is diu provide smoking zone?",
+        "coc of smoking?",
+        "smoking",
+        "can i smoke on campus?",
+        "code of conduct of smoking?"
+      ],
+      "responses": [
+        "Daffodil International University is a smoke-free university.   All   members   of   the   campus community are expected to refrain from smoking. Smoking is forbidden in all indoor and outdoor locations of the University.\n>Minor: Warning Letter, Monetary Fine & DP.\n>Medium: DSP."
+      ]
+    },
+    {
+      "tag": [
+        "Drugs",
+        "weed",
+        "alcohol"
+      ],
+      "patterns": [
+        " What are the rules regarding drugs at the university?",
+        "how diu protest drugs activities?",
+        "code of conduct of taking drugs?",
+        "coc of taking drugs, alcohol,weed",
+        "is students takes weed in diu area?",
+        "code of conduct of taking drugs alcohol weed?"
+      ],
+      "responses": [
+        "Use, production, distribution, sale, possession or stashing of drugs in a manner prohibited under law  is  an  offence.  This includes, but is not limited  to,  alcohol,  marijuana,  stimulants, narcotics, yaba, and the misuse of prescription drugs.\n>Minor: Warning Letter, Calling Guardian & DP.\n>Medium: DSP.\n>Major: DEP."
+      ]
+    },
+    {
+      "tag": [
+        "Gender Harassment/ Eve Teasing",
+        "eve teasing",
+        "teasing"
+      ],
+      "patterns": [
+        " What is considered gender harassment or eve teasing at the university?",
+        "diu rules against eve teasing",
+        "punishment for gender harassment of eve teasing",
+        "bad sound teasing",
+        "coc of eve teasing",
+        "code of conduct of eve teasing",
+        "code of gender harassment",
+        "coc of gender harassment"
+      ],
+      "responses": [
+        "Sexual harassment or Eve Teasing is defined as inappropriate, unwanted and unwelcome conduct or  behavior  of  a  sexual  nature perceived as harassment by the receiver, which has an adverse effect on the dignity of women and men both inside and in certain circumstances outside the University. These cases will be overlooked by the Gender Harassment committee.\nMinor: Warning Letter, Calling Guardian & DP.\n>Medium: DSP.\n>Major: DEP"
+      ]
+    },
+    {
+      "tag": [
+        "vw",
+        "wl",
+        "cg",
+        "dp",
+        "dsp",
+        "dep",
+        "mf",
+        "cps",
+        "ts"
+      ],
+      "patterns": [
+        "what is vw?",
+        "what is wl?",
+        "what  is cg?",
+        "what is dp?",
+        "what is dsp?",
+        "what is dep?",
+        "what is mf?",
+        "what is cps?",
+        "what is ts?",
+        "vw means",
+        "wl means",
+        "cg means",
+        "dp means",
+        "dsp means",
+        "dep means",
+        "mf means",
+        "cps means",
+        "ts means"
+      ],
+      "responses": [
+        "VW: Verbal Warning.\nWL: Warning Letter.\nCG: Calling Guardian.\nDP: Disciplinary Probation.\nDSP: Disciplinary Probation.\nDEP: Disciplinary Expulsion.\nMF: Monetary Fine.\nCPS: Compensation to the University.\nTS: Temporary Suspension"
+      ]
+    },
+    {
+      "tag": [
+        "Classroom Discipline"
+      ],
+      "patterns": [
+        "What is considered classroom discipline at the university?",
+        "if anyone dont obey classroom discipline?",
+        "disrespectful about class?",
+        "punishment about classroom indiscipline?",
+        "coc of class room discipline?",
+        "bad behaviour on class room?",
+        "someone not maintain class room activities",
+        "code of conduct of damage property"
+      ],
+      "responses": [
+        "Students are expected to maintain respectful and decorous behavior towards students, staff, and faculty  while  in  the  classroom  and  on  the university   premises.   Ill-discipline  includes: interrupting learning through talking out of place, use of mobile phones in class, arrogance, using slang/rude words or behavior, etc. It also includes loud talking or disruptive behavior during classes and exams.\n>Minor: Waring Letter, VW.\n>Medium: CG & Disciplinary Probation.\n>Major: DEP & DSP."
+      ]
+    }
+  ]
+}

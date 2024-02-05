@@ -1,0 +1,426 @@
+{
+    "intents": [
+        {
+            "_comment": "cse office",
+            "tag": [
+                "cse office"
+            ],
+            "patterns": [
+                "cse office location?",
+                "cse office room number?",
+                "room number of cse office?",
+                "cse office"
+            ],
+            "responses": [
+                "AB04:1st Floor(205,206,207)\nUse the stairs"
+            ]
+        },
+        {
+            "_comment": "GED office",
+            "tag": [
+                "ged office"
+            ],
+            "patterns": [
+                "ged office location?",
+                "ged office room number?",
+                "room number of ged office?",
+                "ged office",
+                ""
+            ],
+            "responses": [
+                "AB04:2nd Floor(310)\nUse the stairs"
+            ]
+        },
+        {
+            "_comment": "swe office",
+            "tag": [
+                "swe office"
+            ],
+            "patterns": [
+                "swe office location?",
+                "swe office room number?",
+                "room number of swe office?",
+                "swe office",
+                ""
+            ],
+            "responses": [
+                "AB04:5th Floor(607)\nUse the stairs or lift"
+            ]
+        },
+        {
+            "_comment": "cis office",
+            "tag": [
+                "CIS office",
+                "cis office"
+            ],
+            "patterns": [
+                "cis office location?",
+                "cis office room number?",
+                "room number of cis office?",
+                "cis office",
+                ""
+            ],
+            "responses": [
+                "AB04:5th Floor(606)\nUse the stairs or lift"
+            ]
+        },
+        {
+            "_comment": "ITM office  ",
+            "tag": [
+                "ITM office",
+                "itm office"
+            ],
+            "patterns": [
+                "itm office location?",
+                "itm office room number?",
+                "room number of itm office?",
+                "itm office",
+                ""
+            ],
+            "responses": [
+                "AB04:5th Floor 601(B)\nUse the stairs or lift "
+            ]
+        },
+        {
+            "_comment": "ce office",
+            "tag": [
+                "ce office"
+            ],
+            "patterns": [
+                "ce office location?",
+                "ce office room number?",
+                "room number of ce office?",
+                "ce office",
+                ""
+            ],
+            "responses": [
+                "AB04:6th Floor (707)\nUse the stairs or lift "
+            ]
+        },
+        {
+            "_comment": "ice office ",
+            "tag": [
+                "ice office"
+            ],
+            "patterns": [
+                "ice office location?",
+                "ice office room number?",
+                "room number of ice office?",
+                "ice office",
+                ""
+            ],
+            "response": [
+                "AB04:6th Floor (706)\nUse the stairs or lift "
+            ]
+        },
+        {
+            "_comment": "eee office",
+            "tag": [
+                "eee office"
+            ],
+            "patterns": [
+                "eee office location?",
+                "eee office room number?",
+                "room number of eee office?",
+                "eee office",
+                ""
+            ],
+            "responses": [
+                "AB04:7th Floor (807)\nUse the stairs or lift "
+            ]
+        },
+        {
+            "_comment": "office vacant",
+            "tag": [
+                "office vacant",
+                "vacant office"
+            ],
+            "patterns": [
+                "vacant office location?",
+                "vacant office vacant room number?",
+                "room number of vacant office?",
+                "vacant office",
+                ""
+            ],
+            "responses": [
+                "AB04:7th Floor (806)\nUse the stairs or lift "
+            ]
+        },
+        {
+            "_comment": "te office",
+            "tag": [
+                "te office"
+            ],
+            "patterns": [
+                "te office location?",
+                "te office room number?",
+                "room number of te office?",
+                "te office",
+                ""
+            ],
+            "responses": [
+                "AB04:8th Floor (909)\nUse the stairs or lift "
+            ]
+        },
+        {
+            "_comment": "esdm office",
+            "tag": [
+                "esdm office"
+            ],
+            "patterns": [
+                "esdm office location?",
+                "esdm office room number?",
+                "room number of esdm office?",
+                "esdm office",
+                ""
+            ],
+            "responses": [
+                "AB04:8th Floor (910)\nUse the stairs or lift "
+            ]
+        },
+        {
+            "_comment": "us aid office",
+            "tag": [
+                "us aid office"
+            ],
+            "patterns": [
+                "us aid office location?",
+                "us aid office room number?",
+                "room number of us aid office?",
+                "us aid office",
+                ""
+            ],
+            "responses": [
+                "AB04:8th Floor (911)\nUse the stairs or lift "
+            ]
+        },
+        {
+            "_comment": "Dean FE office",
+            "tag": [
+                "dean fe office",
+                "fe dean office"
+            ],
+            "patterns": [
+                "dean fe dean office location?",
+                "dean fe dean office room number?",
+                "room number of dean fe dean office?",
+                "dean fe dean office",
+                ""
+            ],
+            "responses": [
+                "AB04:8th Floor (912)\nUse the stairs or lift "
+            ]
+        },
+        {
+            "_comment": "Architecture office",
+            "tag": [
+                "Architecture office"
+            ],
+            "patterns": [
+                "Architecture office location?",
+                "Architecture office room number?",
+                "room number of Architecture office?",
+                "Architecture office",
+                ""
+            ],
+            "responses": [
+                "AB04:9th Floor (1010)\nUse the stairs or lift "
+            ]
+        },
+        {
+            "_comment": "mct office",
+            "tag": [
+                "mct office"
+            ],
+            "patterns": [
+                "mct office location?",
+                "mct office room number?",
+                "room number of mct office?",
+                "mct office",
+                ""
+            ],
+            "responses": [
+                "AB04:9th Floor (1009)\nUse the stairs or lift "
+            ]
+        },
+        {
+            "_comment": "dean fsit office",
+            "tag": [
+                "dean fsit office",
+                "fsit office"
+            ],
+            "patterns": [
+                "dean fsit dean office location?",
+                "dean fsit dean office room number?",
+                "room number of dean fsit dean office?",
+                "dean fsit dean office",
+                ""
+            ],
+            "responses": [
+                "AB04:9th Floor (1017)\nUse the stairs or lift "
+            ]
+        },
+        {
+            "_comment": "bba office",
+            "tag": [
+                "bba office"
+            ],
+            "patterns": [
+                "bba office location?",
+                "bba office room number?",
+                "room number of bba office?",
+                "bba office",
+                ""
+            ],
+            "responses": [
+                "AB04:10th Floor (1106)\nUse the stairs or lift "
+            ]
+        },
+        {
+            "_comment": "thm office",
+            "tag": [
+                "thm office"
+            ],
+            "patterns": [
+                "thm office location?",
+                "thm office room number?",
+                "room number of thm office?",
+                "thm office",
+                ""
+            ],
+            "responses": [
+                "AB04:10th Floor (1107)\nUse the stairs or lift "
+            ]
+        },
+        {
+            "_comment": "Entrepreneurship office",
+            "tag": [
+                "entrepreneurship office"
+            ],
+            "patterns": [
+                "entrepreneurship office location?",
+                "entrepreneurship office room number?",
+                "room number of entrepreneurship office?",
+                "entrepreneurship office",
+                ""
+            ],
+            "responses": [
+                "AB04:10th Floor (1115)\nUse the stairs or lift "
+            ]
+        },
+        {
+            "_comment": "dean BA office",
+            "tag": [
+                "dean BA office",
+                "ba dean office"
+            ],
+            "patterns": [
+                "dean ba dean office location?",
+                "dean ba dean office room number?",
+                "room number of dean ba dean office?",
+                "dean ba  office",
+                ""
+            ],
+            "responses": [
+                "AB04:10th Floor (1115)\nUse the stairs or lift "
+            ]
+        },
+        {
+            "_comment": "bre office",
+            "tag": [
+                "bre office"
+            ],
+            "patterns": [
+                "bre office location?",
+                "bre office room number?",
+                "room number of bre office?",
+                "bre office",
+                ""
+            ],
+            "responses": [
+                "AB04:10th Floor 1101(B)\nUse the stairs or lift "
+            ]
+        },
+        {
+            "_comment": "English office",
+            "tag": [
+                "english office"
+            ],
+            "patterns": [
+                "english office location?",
+                "english office room number?",
+                "room number of english office?",
+                "english office",
+                ""
+            ],
+            "responses": [
+                "AB04:11th Floor (1207)\nUse the stairs or lift "
+            ]
+        },
+        {
+            "_comment": "law office",
+            "tag": [
+                "law office"
+            ],
+            "patterns": [
+                "law office location?",
+                "law office room number?",
+                "room number of law office?",
+                "law office",
+                ""
+            ],
+            "responses": [
+                "AB04:11th Floor (1206)\nUse the stairs or lift "
+            ]
+        },
+        {
+            "_comment": "jmc office",
+            "tag": [
+                "jmc office"
+            ],
+            "patterns": [
+                "jmc office location?",
+                "jmc office room number?",
+                "room number of jmc office?",
+                "jmc office",
+                ""
+            ],
+            "responses": [
+                "AB04:11th Floor 1201(B)\nUse the stairs or lift "
+            ]
+        },
+        {
+            "_comment": "ds office",
+            "tag": [
+                "ds office"
+            ],
+            "patterns": [
+                "ds office location?",
+                "ds office room number?",
+                "room number of ds office?",
+                "ds office",
+                ""
+            ],
+            "responses": [
+                "AB04:11th Floor (1212)\nUse the stairs or lift "
+            ]
+        },
+        {
+            "_comment": "dean fhss office",
+            "tag": [
+                "dean fhss office",
+                "fhss dean offfice"
+            ],
+            "patterns": [
+                "dean fhss dean office location?",
+                "dean fhss dean office room number?",
+                "room number of dean fhss dean office?",
+                "dean fhss dean office",
+                ""
+            ],
+            "responses": [
+                "AB04:11th Floor (1212)\nUse the stairs or lift "
+            ]
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+  "intents": [
+    {
+      "tag": [
+        "locations of varsity",
+        "varsity locations",
+        "university locations",
+        "location"
+      ],
+      "patterns": [
+        "What are the locations of universities?",
+        "Tell me about university locations.",
+        "Where are the universities located?",
+        "diu location",
+        "daffodil locations"
+      ],
+      "responses": [
+        "Sure! Here are the locations of Daffodil:\n\n Daffodil International University\n   - Address: Birulia, Savar, Dhaka-1216.\n   - Contact Numbers:  01847140095, 01811458841, 01713493141\n   -Admission Helpline: +8809617901212\n   -  E-mail: admission@daffodilvarsity.edu.bd\n   - Website: [Daffodil International University](https://daffodilvarsity.edu.bd)"
+      ]
+    },
+    {
+      "tag": [
+        "waiver",
+        "waiver info",
+        "scholarship-programs",
+        "academic-scholarships",
+        "fee-waivers",
+        "varsity waiver",
+        "varsity scholarship",
+        "scholarship info"
+      ],
+      "patterns": [
+        "Tell me about scholarships.",
+        "What scholarships are available?",
+        "Can you provide information about waiver or waiver?",
+        "varsity waiver details",
+        "tell me about varsity waiver",
+        "tell me about varsity scholarships"
+      ],
+      "responses": [
+        "Sure! Here are some of the scholarships available at the university:\n\n1. RESULT-BASED WAIVER (SSC AND HSC/UNDER GRADUATE)\n2. WAIVER ON SGPA (ACADEMIC RESULT OF IMMEDIATE LAST SEMESTER)\n3. FEMALE QUOTA\n4. DIU EMPLOYEE/1ST BLOOD RELATIVES OF DIU EMPLOYEE QUOTA\n5. DAFFODIL INTERNATIONAL COLLEGE (DIC)/EMINENCE COLLEGE/HUMAN DEVELOPMENT COLLEGE QUOTA\n6. DAFFODIL POLYTECHNIC INSTITUTE (DPI)/BANGLADESH SKILL DEVELOPMENT INSTITUTE (BSDI) QUOTA\n7. DIPTI BUSINESS MANAGEMENT (BM) COLLEGE QUOTA\n8. DAFFODIL TECHNICAL INSTITUTE (DTI) QUOTA\n9. 1ST BLOOD RELATIVES OF ALUMNI QUOTA\n10. WAIVER FOR SPOUSE OF DIU ALUMNI QUOTA\n11. WAIVER FOR MASTERS PROGRAMS IN DIU\n12. PLAYER QUOTA\n13. PHYSICALLY CHALLENGED/ SPECIALLY-ABLE QUOTA\n14. TRIBAL/ETHNIC GROUP QUOTA\n15. SIBLING/SPOUSE QUOTA\n16. WAIVER FOR SON/DAUGHTER OF CURRENT STUDENTS QUOTA\n17. WAIVER FOR DIPLOMA HOLDERS ADMITTED IN DAY PROGRAM\n18. WAIVER FOR STUDENTS ADMITTED IN A GROUP (AT LEAST 10 IN NUMBER)\n19. 1ST BATCH OF A PROGRAM QUOTA\n20. WAIVER FOR INTERNATIONAL STUDENTS ON DIRECT ADMISSION IN MASTER’S PROGRAM\n21. WAIVER BENEFIT FOR DUAL MASTER QUOTA\n22. [Download Waiver & Scholarship Policy](https://daffodilvarsity.edu.bd/images/download/waiver-policy2023.pdf)\n23. [Waiver and Tuition Fee Calculator](https://daffodilvarsity.edu.bd/tuition-fee-calculator)"
+      ]
+    },
+    {
+      "tag": [
+        "defense"
+      ],
+      "patterns": [
+        "Final year defense procedure?",
+        "Where i find information about defense?",
+        "How can i get supervisor for defense?",
+        "defense?",
+        "Tell me about defense procedure?"
+      ],
+      "responses": [
+        "In your final year you will get all procedure step by step."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "intents": [
+    {
+      "tag": [
+        "life insurance",
+        "diu life insurance"
+      ],
+      "patterns": [
+        "Tell me about DIU Life Insurance and its offerings.",
+        "What should I know about life insurance claim procedures?",
+        "What sets DIU Life Insurance apart from other providers?",
+        "Can you provide information on the different life insurance plans offered by DIU Life Insurance?",
+        "How can I get a quote for life insurance from DIU Life Insurance?",
+        "Are there any special features or riders available with DIU Life Insurance policies?",
+        "What is the process for applying for life insurance through DIU Life Insurance?",
+        "How does DIU Life Insurance handle underwriting and approvals?",
+        "What can you tell me about DIU Life Insurance's claims and settlement process?",
+        "Is there any specific information I should be aware of regarding DIU Life Insurance?",
+        "Why might DIU Life Insurance be a good choice for life insurance coverage?"
+      ],
+      "responses": [
+        "Life Insurance Benefits:\n1. Normal Death of insured students: 100% of Sum Assured\n2. Accidental Death: 200% of Sum Assured (Provided Death Occurs within 90 days of accidents)\n3. Permanent Total Disability (Both eyes, both hands above the wrist, both feet above the ankle, one hand above the wrist, one foot above the ankle): 100% of Sum Assured (At Permanent Total Disability, individual group coverage insurance will be ceased)\nHow to register for student life insurance:\nRegistration for student life insurance is processed at the time of admission at the admission and counseling section.\nHow to claim insurance money for Normal Death:\n1. Copy of student ID card\n2. Copy of SSC certificate/NID card/Passport\n3. Death certificate from a registered MBBS doctor\n4. Death certificate from City Corporation/UP chairman\nAdditional Documents for Accidental Death:\n1. Post Mortem report\n2. FIR report will be required along with the death certificate\nPermanent Total Disability benefit:\n1. Doctor's certificate regarding disability along with X-ray report with film\n2. Discharge certificate from the Hospital (when applicable)\nTotal Disability of student. Initial sum at risk up to BDT 2,50,000/-. Total Disability of guardian. Initial sum at risk up to BDT 3,00,000/-. For more details, visit this link: https://daffodilvarsity.edu.bd/article/life-insurance"
+      ]
+    },
+    {
+      "tag": [
+        "online admission",
+        "admission online"
+      ],
+      "patterns": [
+        "How do I apply for admission online?",
+        "Can you guide me through the online admission process?",
+        "What are the steps for online admission?",
+        "Tell me about the requirements for online admission.",
+        "Where can I find the online admission form?",
+        "Is there an application fee for online admission?",
+        "Can I check the status of my online admission application?",
+        "How do I submit documents for online admission?",
+        "When is the deadline for online admission applications?",
+        "Give me information on online admission support services."
+      ],
+      "responses": [
+        " We are offering 38 undergraduate and graduate programs under 26 departments. Our curriculum is designed to help the students to develop the skills required for 21st-century employment.\nFor online application:[Click Here](https://pd.daffodilvarsity.edu.bd/admission/online)\n\nNo fee need for online application."
+      ]
+    },
+    {
+      "tag": [
+        "Admission Documents",
+        "Required Papers for Admission",
+        "Document Submission",
+        "Admission Paperwork",
+        "Application Materials",
+        "Document Checklist"
+      ],
+      "patterns": [
+        "What are the required admission documents?",
+        "Can you provide a list of admission documents I need to submit?",
+        "Where can I find information about the necessary admission documents?",
+        "Do I need to submit any specific documents for admission?",
+        "Which papers are mandatory for admission?",
+        "Could you list the papers I must provide for the admission process?",
+        "Are there specific papers I need to prepare for admission?",
+        "What kind of papers do I need to submit for my admission application?",
+        "How do I know if I have all the required papers for admission?",
+        "Can you clarify what application materials are required for admission?",
+        "Do you have a checklist of required admission documents?",
+        "Can you provide a document checklist for the admission process?How can I create my own document checklist for admission?Is there a standard document checklist I should follow for admission?What's the importance of a document checklist in the admission process?"
+      ],
+      "responses": [
+        "Please  click this link and you will see what documents need for admission.[CLICK HERE](https://daffodilvarsity.edu.bd/photos/pdf/admission-checklist.pdf) "
+      ]
+    },
+    {
+      "tag": [
+        " admission procedure",
+        "process of admission",
+        "admission process",
+        "guideline of admission"
+      ],
+      "patterns": [
+        "Can you provide me with the admission guidelines?",
+        "How does the admission process work?",
+        "What are the steps to complete the admission?",
+        "What is the admission procedure like?",
+        "When does the admission process start?",
+        "How do I complete my admission successfully?"
+      ],
+      "responses": [
+        "Please  click this link and you will see whole process in a direction manner. [CLICK HERE](https://daffodilvarsity.edu.bd//photos/pdf/Admission-Flow-Chart19.pdf)"
+      ]
+    },
+    {
+      "tag": [
+        "ADMISSION ELIGIBILITY",
+        "admission criteria",
+        "admission requirements"
+      ],
+      "patterns": [
+        "What are the eligibility criteria for Computer Science and Engineering (CSE) admission?",
+        "Tell me about the admission requirements for CSE",
+        "CSE admission criteria?",
+        "Tell me about the admission requirements.",
+        "Are there any specific criteria for admission?",
+        "What are the eligibility criteria for Software Engineering (SWE) admission?",
+        "SWE admission requirements?",
+        "Tell me about SWE admission.",
+        "What are the requirements for Multimedia and Creative Technology (MCT) admission?",
+        "MCT admission criteria?",
+        "Tell me about MCT admission.",
+        "Tell me about the admission requirements for Textile Engineering (TE).",
+        "TE admission criteria?",
+        "What are the TE admission requirements?",
+        "What are the eligibility criteria for Electrical and Electronic Engineering (EEE) admission?",
+        "Tell me about the admission requirements for EEE.",
+        "EEE admission criteria?",
+        "What are the requirements for Architecture (ARCH) admission?",
+        "ARCH admission criteria?",
+        "Tell me about ARCH admission.",
+        "Tell me about the admission requirements for Civil Engineering (CE).",
+        "CE admission criteria?",
+        "What are the CE admission requirements?",
+        "Tell me about the admission requirements for NFE.",
+        "NFE admission criteria?",
+        "What are the eligibility criteria for Nutrition and Food Engineering (NFE) admission?",
+        "Tell me about the admission requirements for Agricultural Science.",
+        "What are the admission criteria for Agricultural Science?",
+        "What is required for admission to Agricultural Science?",
+        "What is the minimum GPA for Daffodil International University?",
+        ""
+      ],
+      "responses": [
+        "Admission eligibility criteria are as follows:\n\nGeneral Students:\nStudents should have a minimum GPA of 2.5 in both Secondary School Certificate (SSC) and Higher Secondary Certificate (HSC) 12th class passed, with a focus on Science and minimum grades in Physics, Mathematics, and English.\n\nFor Diploma Holders:\nStudents should have a minimum GPA of 2.5 in SSC and a Diploma in Computer Technology for admission.\n\nEnglish Medium Students:\nStudents should have completed five O-level subjects and at least two A-level subjects. Out of these seven subjects, applicants must have a minimum of 4 'B' grades and 3 'C' grades. Physics and Mathematics are mandatory subjects at both O-level and A-level."
+      ]
+    },
+    {
+      "tag": [
+        "ADMISSION ELIGIBILITY",
+        "admission criteria",
+        "admission requirements"
+      ],
+      "patterns": [
+        "What are the eligibility criteria for ESDM admission?",
+        "Tell me about the admission requirements for Environmental Science and Disaster Management (ESDM).",
+        "ESDM admission criteria?",
+        "Tell me about the admission requirements.",
+        "Are there any specific criteria for admission?",
+        "What are the eligibility criteria for Computing and  Information Systems (CIS) admission?",
+        "Tell me about the admission requirements for CIS.",
+        "CIS admission criteria?",
+        "What are the requirements for Information Technology and Management (ITM) admission?",
+        "ITM admission criteria?",
+        "Tell me about ITM admission.",
+        "Tell me about the admission requirements for Physical Education and Sports Science (PESS).",
+        "What are the admission criteria for PESS?",
+        "PESS admission requirements?",
+        "What are the eligibility criteria for BBA admission?",
+        "Tell me about the admission requirements for Bachelor of Business Administration (BBA).",
+        "BBA admission criteria?",
+        "Tell me about the admission requirements for E-Business Management.",
+        "What are the admission criteria for the E-Business Management program?",
+        "E-Business Management admission requirements?",
+        "What are the eligibility criteria for Bachelor and Real Estate (BRE) admission?",
+        "Tell me about the admission requirements for BRE.",
+        "BRE admission criteria?",
+        "Tell me about the admission requirements for Bachelor of Tourism and Hospitality Management (BTHM).",
+        "What are the admission criteria for BTHM?",
+        "BTHM admission requirements?",
+        "What are the eligibility criteria for Bachelor of Entrepreneurship (BE) admission?",
+        "Tell me about the admission requirements for BE.",
+        "BE admission criteria?",
+        "What are the eligibility criteria for admission to the English program?",
+        "Tell me about the admission requirements for the English program.",
+        "English program admission criteria?",
+        "Tell me about the admission requirements for LLB law Bachelor of Laws.",
+        "What are the admission criteria for LLB law?",
+        "LLB admission requirements law?",
+        "What are the eligibility criteria for BSS (Hons.) in Journalism and Mass Media Communication (BSS) admission?",
+        "Tell me about the admission requirements for BSS.",
+        "BSS admission criteria?",
+        "What are the requirements for Bachelor of Public Health (BPH) admission?",
+        "BPH admission criteria?",
+        "Tell me about BPH admission.",
+        "What is the minimum GPA for Daffodil International University?",
+        ""
+      ],
+      "responses": [
+        "Admission eligibility criteria are as follows:\n\nGeneral Students:\nStudents should have a minimum GPA of 2.5 in both Secondary School Certificate (SSC) and Higher Secondary Certificate (HSC) 12th class passed, with a focus on Science and minimum grades in Physics, Mathematics, and English.\n\nEnglish Medium Students:\nStudents should have completed five O-level subjects and at least two A-level subjects. Out of these seven subjects, applicants must have a minimum of 4 'B' grades and 3 'C' grades. Physics and Mathematics are mandatory subjects at both O-level and A-level."
+      ]
+    },
+    {
+      "tag": [
+        "pharmacy ADMISSION ELIGIBILITY",
+        "pharmacy admission criteria",
+        "pharmacy admission requirements"
+      ],
+      "patterns": [
+        "What are the pharmacy eligibility criteria for B.Pharmacy admission?",
+        "Tell me about the admission requirements for Bachelor of Pharmacy (B.Pharmacy).",
+        "B.Pharmacy pharmacy admission criteria?",
+        "pharmacy admission eligibility",
+        ""
+      ],
+      "responses": [
+        "Admission eligibility criteria are as follows:\n\nGeneral Student:\nStudents must have a total GPA of 8.00 (on a scale of 10.00) in both Secondary School Certificate (SSC) and Higher Secondary Certificate (HSC) or the 12th class equivalent from the Science group. However, GPAs less than 3.50 (on a scale of 5.00) in SSC/HSC/Equivalent are not accepted. Students must have a minimum GPA of 4.00 (on a scale of 5.00) or an 'A' grade in Chemistry, Biology, and Physics in SSC/HSC/Equivalent. In HSC/Equivalent level (except 'A' level), students must have a minimum GPA of 3.50 (on a scale of 5.00) in Mathematics. Students completing five O-level subjects and at least four A-level subjects may apply. In 'A' level, a minimum 'B' grade in Physics, Chemistry, and Biology is required, along with a minimum 'C' grade in Mathematics. Applicants must complete their admission after passing HSC/Equivalent level within the same year or the next year. Students having below a 'B' grade in English in HSC/Equivalent level must enroll in an English Language Remedial Course immediately after admission. Failures or students without Mathematics can be admitted but they have to complete an additional Mathematics course (03 credits) related to the B.Pharm curriculum."
+      ]
+    }
+  ]
+}

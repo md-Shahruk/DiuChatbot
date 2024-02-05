@@ -1,0 +1,901 @@
+{
+  "intents": [
+    {
+      "tag": [
+        "greeting",
+        "diu",
+        "hi",
+        "hello"
+      ],
+      "patterns": [
+        "Hi",
+        "diu",
+        "diu",
+        "Diu",
+        "daffodil",
+        "How are you?",
+        "Is anyone there?",
+        "Hello",
+        "Good day",
+        "What's up",
+        "how are ya",
+        "heyy",
+        "whatsup",
+        "whats up?",
+        "??? ??? ??"
+      ],
+      "responses": [
+        "Hello!",
+        "Good to see you again!",
+        "Hi there, how can I help?",
+        "How can I assist you?",
+        "Feel free to ask any diu related question.",
+        "Welcome to Diubot."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": [
+        "goodbye"
+      ],
+      "patterns": [
+        "bye",
+        "see you again",
+        "bye bye",
+        "See you later",
+        "Goodbye",
+        "I am Leaving",
+        "Bye",
+        "Have a Good day",
+        "talk to you later",
+        "ttyl",
+        "i got to go",
+        "gtg"
+      ],
+      "responses": [
+        "Sad to see you go :(",
+        "Talk to you later",
+        "Goodbye!",
+        "Come back soon"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": [
+        "name"
+      ],
+      "patterns": [
+        "name",
+        "your name",
+        "do you have a name",
+        "what are you called",
+        "what is your name",
+        "what should I call you",
+        "whats your name?",
+        "what are you",
+        "who are you",
+        "who is this",
+        "what am i chatting to",
+        "who am i taking to",
+        "what are you"
+      ],
+      "responses": [
+        "You can call me DiuBot.",
+        "I'm assist to you.",
+        "I am a Chatbot.",
+        "I am your helper."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": [
+        "diu facilities",
+        "varsity facilities",
+        "facilities of diu",
+        "facilities"
+      ],
+      "patterns": [
+        "What facilities varsity provide?",
+        "about varsity facilities?",
+        "varsity facilities",
+        "tell me some diu facilities?",
+        "diu facilities",
+        "varsity provides?",
+        "diu provides"
+      ],
+      "responses": [
+        ">Excellent natural environment\n>Female students will be entitled to enjoy additional 10% tuition fees waiver.\n>Students of evening programs will get 20% waiver benefit in general.\n>Hostel accommodation available (male & female)\n>Medical doctor available\n>25% discount at hospital services\n>Indoor and outdoor games facility\n>Transport facility available\n>Generator available\n>Big playground\n>Wi-Fi available\n>Multi-media classrooms\n>AC Class room\n>Attractive laboratories for science & engineering\n>Online/digital library system\n>Full time faculty available\n>Prayer hall\n>24 hours security\n>Please visit this link for waiver details:[Click Here](https://daffodilvarsity.edu.bd/scholarship)"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": [
+        "course",
+        "admission available course"
+      ],
+      "patterns": [
+        "list of courses",
+        "list of department",
+        "list of courses offered",
+        "list of courses offered in",
+        "what are the courses offered in your university?",
+        "courses?",
+        "courses offered",
+        "courses offered in daffodil",
+        "courses you offer",
+        "branches?",
+        "courses available at Daffodil?",
+        "branches available at your university?",
+        "what are the courses in diu?",
+        "what are branches in diu?",
+        "what are courses in Diu?",
+        "branches available in diu?",
+        "can you tell me the courses available in Daffodil?",
+        "can you tell me the branches available in daffodil?",
+        "for admission available course?"
+      ],
+      "responses": [
+        "We are offering 38 undergraduate and graduate programs under 26 departments.\nFor knowing all programs details.\nPlease visit this link:[Click Here](https://daffodilvarsity.edu.bd/programs) "
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": [
+        "course registration",
+        "registration course",
+        "course registration process"
+      ],
+      "patterns": [
+        "what is the process of course registration?",
+        "How do I complete course registration in the semester?",
+        "how do I complete course registration in the semester?",
+        "process of semester course registration",
+        "where i need to go for course registration?",
+        "who register my course?",
+        "tell me about course registration process?",
+        "new students registration process",
+        "course registration"
+      ],
+      "responses": [
+        "If you are new student: At first you have to collect your account clearance by paying the registration fees in Account Section and then you have to come department office along with your filled up StudentInsurance Form (given during the Admission). Then you have to submit your account clearance form and insurance form in department office to complete your registration. After the registration, you have to check the student portal (http://studentportal.diu.edu.bd/login) to be sure about your registration.\n If you are regular student: At first, you have to collect your account clearance from the Account Section by paying fees of registration and then you have to submit it ( Keep a photocopy) to your batch coordinator. He/she will complete your course registration as per the rule. After the completion, you have to check the student portal to be sure about the course registration."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": [
+        "drop subject",
+        "add subject",
+        "change subject",
+        "drop course",
+        "change course",
+        "add course"
+      ],
+      "patterns": [
+        "how can i change my subject after registration?",
+        "how can i change my course after registration?",
+        "how can i change my course?",
+        "process of change subject?",
+        "process of change course?",
+        "process of drop course?",
+        "process of add course?",
+        "process of add subject",
+        "is it possible change or drop subject after complete registration?"
+      ],
+      "responses": [
+        "After the registration, you may be able to Change/Add/Drop your subject within 7 days after the last date of the registration. To Change/Add/Drop your subject, you must meet your batch coordinator. He/she will help to complete the work."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": [
+        "drop semester",
+        "semester drop"
+      ],
+      "patterns": [
+        "what is the process of drop semester?",
+        "how can i drop my semester?",
+        "process of semester drop?",
+        "semester drop",
+        "how drop semester?",
+        "what is the process of  semester drop?",
+        "tell me procedure about drop semester",
+        "tell me about semester drop",
+        "tell me about drop semester",
+        "What can I do to drop the semester?"
+      ],
+      "responses": [
+        "Before complete course registration: In case for specific reason, if you could not pay your registration fees and did not complete the registration, then you must drop the semester in the student portal.\n After complete course registration: In case after the registration, if you need to drop the semester, you have to write an application for approval and submit to the department office. The signed application must be submitted to the Dean Office within 2 weeks of the last date of registration. After the approval of the Dean, You need to submit it to the Registrar Office for final approval. One week later you need to check the student portal and contact to the department office to be sure about the semester drop."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": [
+        "previous syllabus registration",
+        "registration previous syllabus"
+      ],
+      "patterns": [
+        "What about the courses of previous syllabus?",
+        "Do I register myself with previous code as I am a student of previous syllabus?",
+        "is it possible to register previous syllabus?",
+        "how can i register previous syllabus?",
+        "previous syllabus registration process?",
+        "process of previous syllabus registration"
+      ],
+      "responses": [
+        "Students can do registration with previous syllabus with an application to the Head of the department."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": [
+        "date over registration",
+        "over date registration",
+        "late registration"
+      ],
+      "patterns": [
+        "What can I do for registration when the registration date is over?",
+        "procedure of late registration?",
+        "process of late registration",
+        "date over registration",
+        "i'm late how to complete my registration",
+        "tell me about late registration procedure",
+        "late registration process"
+      ],
+      "responses": [
+        "The late registration process is given in the notice board. Please follow the instructions and contact to the department office for further help."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": [
+        "miss semester",
+        "dropped semester",
+        "not continue some semester"
+      ],
+      "patterns": [
+        "I have already dropped three or more semesters (without informing). Now I want to continue my study.",
+        "semester dropped but i want to continue?",
+        "drop some semester now what i do?",
+        "procedure of semester miss?",
+        "process of miss semester continue?"
+      ],
+      "responses": [
+        "Please follow the instructions of re-admission given in the notice board and contact to the department office."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": [
+        "take extra courses",
+        "extra course",
+        "extra course registration"
+      ],
+      "patterns": [
+        "I want to take extra courses next semester?",
+        "what is the process of extra course registration?",
+        "process of extra course registration?",
+        "procedure of extra course registration",
+        " extra course registration process?",
+        "how can i take extra course?"
+      ],
+      "responses": [
+        "Students may apply to the Dean through Head of the department. "
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": [
+        "admission time",
+        "semester available",
+        "admission course offer"
+      ],
+      "patterns": [
+        "When the courses will be offered for (Spring /Fall) this semester?",
+        "diu admission time?",
+        "admission time",
+        "season course offer",
+        "how  much semester in diu",
+        "semester time"
+      ],
+      "responses": [
+        "In a year two semester Spring and Fall. Office will publish the courses offer on notice board. Follow the notice board.(online / department notice board).\nFor online application:[Click Here](https://pd.daffodilvarsity.edu.bd/admission/online)\nYou can simply ask next semester for schedule.\nFor admission just ask next admission."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": [
+        "one course registration",
+        "single course registration",
+        "one more course"
+      ],
+      "patterns": [
+        "how can i registration for one course in as semester?",
+        "procedure of single course registration?",
+        "is it possible take only one course in a semester?",
+        "new course",
+        "one more ",
+        "another",
+        "how can i registration one more course after my course registration completed?",
+        "procedure of some course registration?"
+      ],
+      "responses": [
+        "Students can do that but have to write an application to the head of the Department. If Dean approves then it is allowed."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": [
+        "duel-major",
+        "duel major"
+      ],
+      "patterns": [
+        "What is the process of doing duel-major?",
+        "process of duel-major?",
+        "process of duel_major?",
+        "procedure of duel major",
+        "tell about duel major",
+        "tell me about duel major?",
+        "duel_major",
+        "duel major",
+        "duel-major"
+      ],
+      "responses": [
+        "If the student wants to do duel-major he has to communicate with the department office. The office will provide a guideline for the student which he will follow during the rest of the semesters. Because in order to do duel-major he need to complete 1 elective course, 7 course from the first major and 5 courses from the second major."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": [
+        "exam improvement fee",
+        "improvement exam",
+        "fee of improvement exam"
+      ],
+      "patterns": [
+        "What is the fees of improvement exam?",
+        "tell me course improvement fee?",
+        "improvement fees",
+        "improvement fee",
+        "how much cost need for improvement exam?",
+        "about exam improvement fee ",
+        "improvement exam fee?",
+        "improve exam fee?",
+        "improvement fee"
+      ],
+      "responses": [
+        "The student have to pay 40% of the course fee to attend the mid-term improvement exam and 60% for the final."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": [
+        "improvement exam"
+      ],
+      "patterns": [
+        "How I can give midterm improvement exam?",
+        "how i can give final improvement exam?",
+        "process of improvement exam? ",
+        "procedure of improvement exam?",
+        "where i contact for improvement exam?",
+        "tell me about improvement exam process?"
+      ],
+      "responses": [
+        "Collect the improvement form from the department office and fill up the form. Then go to accounts section and pay required fees for improvement exam which in to be signed by accounts section for clearance.Then you submit the form to the department office."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": [
+        "select supervisor",
+        "find supervisor"
+      ],
+      "patterns": [
+        "How can I select Supervisor for defense?",
+        "How can I select Supervisor for internship?",
+        "for supervisor where  i should go?",
+        "tell me about supervisor select process?",
+        "procedure of find supervisor?",
+        "who select my defense supervisor?"
+      ],
+      "responses": [
+        "Contact your Head who will assign your supervisor for project & thesis."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": [
+        "quiz result",
+        "final result",
+        "midterm result",
+        "attendance percentage"
+      ],
+      "patterns": [
+        "where i find my quiz result?",
+        "where my mid term result?",
+        "how can i see my final result?",
+        "how can i see my class attendance percentage",
+        "process of see quiz result, final result,midterm result?",
+        "course attendance",
+        "course attendance percentage",
+        "midterm result "
+      ],
+      "responses": [
+        "From website: At first browse DIU website then follow the right side where there is an option of virtual university & then click on & put your ID on Academic Result option.\n>you can find quiz,attendance percentage,mid result from diu portal sidebar live result option.\n>you can find semester final result on diu portal sidebar result option. "
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": [
+        "minimum cgpa for certificate",
+        "CGPA for certificate",
+        "require cgpa for certificate"
+      ],
+      "patterns": [
+        "what is minimum cgpa for certificate?",
+        "require cgpa for certificate",
+        "need cgpa for certificate?",
+        "lowest cgpa for certificate? ",
+        "can i get certificate if my cgpa 2.90?",
+        "need cgpa for certificate?"
+      ],
+      "responses": [
+        "The minimum CGPA is 2.50 to get the certificate."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": [
+        "minimum result for improvement exam",
+        "result for improvement exam",
+        "B+",
+        "A-",
+        "b+",
+        "a-"
+      ],
+      "patterns": [
+        "what is the minimum result for improvement exam?",
+        "minimum result for improvement exam?",
+        "require result improvement exam?",
+        "my result B+ can i give  improvement exam?",
+        "grade b+",
+        "i got b+ a-  can i give improvement exam?",
+        "grade a-",
+        " grade B+",
+        " grade A-",
+        "i get A+ can i give improvement exam?",
+        "allow result for improvement exam?"
+      ],
+      "responses": [
+        "Students those who got 'Grade B' or less may apply for improvement."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": [
+        "dont show result",
+        "block result",
+        "can't see result"
+      ],
+      "patterns": [
+        "why i can't see my result?",
+        "why i cant see my result",
+        "dont show my result?",
+        " i cant see my result why?",
+        "why block my result?"
+      ],
+      "responses": [
+        "Clear your previous dues and contact with Registrar Office/Exam Office for removal of block result."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": [
+        "concern letter",
+        "testimonial",
+        "transcript"
+      ],
+      "patterns": [
+        "How I can take concern letter/ testimonial for job purposes.?",
+        "where i contact for my testimonial?",
+        "contact for testimonial?",
+        "how i get testimonial?",
+        "where i find my testimonial?",
+        "contact for concern letter? ",
+        "procedure for concern letter?",
+        "concern letter",
+        "process of concern letter"
+      ],
+      "responses": [
+        "Take application form and fill up the form. Attach the photocopy of final Transcript. Pay 50 taka at DIU accounts section. Take accounts clearance and submit to the concerned Department/Registrar Office.\nFor concern letter: For getting a concern letter you have to deposit TK. 50 to Accounts section. Then bring the money receipt to department office write your father and mother name backside of the money receipt."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": [
+        "provisional certificate"
+      ],
+      "patterns": [
+        "When I will be allowed for provisional certificate?",
+        "how i get provisional certificate?",
+        "process of provisional certificate?",
+        "procedure for provisional certificate?"
+      ],
+      "responses": [
+        "When you will complete all required credits for the degree but not to attend at convocation then you will be allowed for provisional certificate."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": [
+        "academic transcripts",
+        "academic transcript",
+        "academic certificate"
+      ],
+      "patterns": [
+        "How can I withdraw academic transcripts/ certificate?",
+        "when i collect academic certificate?",
+        "how i get academic certificate?",
+        "process of academic certificate? ",
+        "academic certificate?",
+        "academic transcript?",
+        "transcript",
+        "certificate"
+      ],
+      "responses": [
+        "Collect form from DIU exam office and fill-up the form and submit to the exam section."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": [
+        "recommendation letter"
+      ],
+      "patterns": [
+        "how can i get recommendation letter?",
+        "process of collect recommendation letter?",
+        "recommendation letter",
+        "where i collect recommendation letter?"
+      ],
+      "responses": [
+        "For getting recommendation letter have to pay 50 taka to Accounts section. Then submit an application to department office. Describe briefly on application."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": [
+        "email problem",
+        "mail problem",
+        "email issue",
+        "problem of email"
+      ],
+      "patterns": [
+        "face my email problem?",
+        "i cant use my varsity email?",
+        "i can't enter my email?",
+        "my email don't work?",
+        "email problem?",
+        "where i solve my email problem?",
+        "how to solve my email problem?",
+        "problem of email",
+        "email dont work",
+        "email problem"
+      ],
+      "responses": [
+        "You need to pay =20/- to Account section and fill the register book from the department office for specific problem.\nDepartment office will send a mail to IT section  to solve the problem."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": [
+        "class routine"
+      ],
+      "patterns": [
+        "How can I get my class routine of the semester?",
+        "where i find my class routine?",
+        "how can i find my class routine?",
+        "class routine",
+        "where i see my class routine?",
+        "give me my class routine information?"
+      ],
+      "responses": [
+        "You can find your class routine in the notice board and, also in the online notice board and in your email.\nAlso here is link of diu routine scrapper:[Click Here](https://play.google.com/store/apps/details?id=com.zohirrayhan.routinescrapper) "
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": [
+        "lost id card",
+        "lost student id card",
+        "id card lost"
+      ],
+      "patterns": [
+        "I have lost my ID card. What can I do now?",
+        "my id card lost now what i do?",
+        "for new id card what i do?",
+        "i lost my student id card?",
+        "where i complain my id card lost issue?",
+        "who can help me  for find id card",
+        "lost my id card?",
+        "lose id card",
+        "id card lost?",
+        " id card issue"
+      ],
+      "responses": [
+        "At first, you have to go to the Police Station to do a General Dairy (GD). After getting the GD paper, you have to submit it to the Admission Section. The Admission Section will give you the further instruction."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": [
+        "waiver information",
+        "scholarship information"
+      ],
+      "patterns": [
+        "how can i know about my waiver ?",
+        "how can i know about my scholarship?",
+        "information about my waiver",
+        "information about my scholarship",
+        "waiver details",
+        "information of scholarship",
+        "tell me about waiver?",
+        "tell me about varsity scholarship?"
+      ],
+      "responses": [
+        "You can get your scholarship/waiver information in the Registrar Office.\nPlease visit this link for more information:[Click Here](https://daffodilvarsity.edu.bd/scholarship) "
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": [
+        "reserve class room",
+        "extra class room",
+        "extra room",
+        "reserve room"
+      ],
+      "patterns": [
+        "How may I reserve class room for extra class?",
+        "is it possible reserve class room?",
+        "how can i manage extra class room?",
+        "process of extra class room?",
+        "how i mange extra class room?",
+        "how i manage reserve room?"
+      ],
+      "responses": [
+        "Come to department office and contact with coordination officer for booking class room."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": [
+        "diu portal issue",
+        "portal problem",
+        "diu portal problem"
+      ],
+      "patterns": [
+        "How I may solve DIU portal problem?",
+        "how  can i  solve diu portal problem?",
+        "where i can solve my diu portal?",
+        "diu portal problem",
+        "portal problem"
+      ],
+      "responses": [
+        "You come to department office and contact with coordination officer."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": [
+        "change department",
+        "department change",
+        "dpt change"
+      ],
+      "patterns": [
+        "i need change my dept?",
+        "how i change my dpt?",
+        "hw change dpt?",
+        "procedure of department change?",
+        "tell me how i change my department?",
+        "what is the process of  department change?"
+      ],
+      "responses": [
+        "Collect a form from Registrar Office. Fill-up and collect sign from Dean and Department Head.\nClear all dues and submit to Registrar Office"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": [
+        "about insurance",
+        "insurance information",
+        "details about insurance"
+      ],
+      "patterns": [
+        "where i can find information about insurance?",
+        "diu insurance system",
+        "tell me about insurance ",
+        "insurance system of diu",
+        "need information about insurance?",
+        "details of insurance system?"
+      ],
+      "responses": [
+        "Meet with Mr. Md. Zubayarul Islam, Administrative Officer.Mobile: 01847140055"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": [
+        "teaching evaluation"
+      ],
+      "patterns": [
+        "What is the process of teaching evaluation?",
+        "how i complete my teaching evaluation?",
+        "where i complete my teaching evaluation?",
+        "process of teaching evaluation?",
+        "about teaching evaluation?",
+        "i cant complete my teaching evaluation?",
+        "what is teaching evaluation?"
+      ],
+      "responses": [
+        "Login to student portal and update the profile. After that fill the evaluation form and submit it.\nNote: Every end of semester need teaching evaluation complete for view semester result and maintain every course 75% attendacne."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": [
+        "diu laptop",
+        "requirement of laptop",
+        "about diu laptop",
+        "Laptop"
+      ],
+      "patterns": [
+        "tell me about diu laptop?",
+        "what is the process collect laptop?",
+        "what is the process collect diu laptop?",
+        "when i find my laptop from my varsity?",
+        "what requires need for laptop?",
+        "when i get laptop?",
+        "diu laptop",
+        "laptop of diu",
+        "information about laptop?"
+      ],
+      "responses": [
+        "It's joyful. Diu has one student one laptop project. Every student gets a laptop.\n>Diu will give you an email when you are eligible for a laptop.\n>At least complete 4th semester.\n>Maintain minimum SGPA 2.5 and payment should be clear up to the last semester.\n>Need complete two course on goedu.ac .\n>More details you can visit:[Click Here](https://laptop.daffodilvarsity.edu.bd/index.php/apply-and-instruction/instruction-for-laptop-receive)"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": [
+        "infrastructure"
+      ],
+      "patterns": [
+        "how is varsity infrastructure",
+        "infrastructure",
+        "varsity infrastructure"
+      ],
+      "responses": [
+        "Our University has Excellent Infrastructure. Campus is clean. Good IT Labs With Good Speed of Internet connection.More information need please visit our campus. you are always welcome"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": [
+        "chairman",
+        "owner"
+      ],
+      "patterns": [
+        "what is the name of chairman",
+        "what is the name of Chairman",
+        "chairman name",
+        "Who is varsity chairman",
+        "owner",
+        "who is the owner of diu?",
+        "chairman",
+        "name of chairman"
+      ],
+      "responses": [
+        "Mr. Md. Sabur Khan.\nProfile:[Click Here](https://sabur.me/profile/a-brief-profile-sabur-khan)\nMore details:[Click Here](https://daffodilvarsity.edu.bd/committee/board-of-trustees)"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": [
+        "uniform"
+      ],
+      "patterns": [
+        "varsity dress code",
+        "varsity dresscode",
+        "what is the uniform",
+        "can we wear casuals",
+        "Does varsity have an uniform",
+        "Is there any uniform",
+        "uniform",
+        "what about uniform",
+        "do we have to wear uniform"
+      ],
+      "responses": [
+        "Indecent dress-up is highly prohibited here. "
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": [
+        "random"
+      ],
+      "patterns": [
+        "I love you",
+        "Will you marry me",
+        "Do you love me"
+      ],
+      "responses": [
+        "I am not program for this, please ask appropriate query."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": [
+        "swear"
+      ],
+      "patterns": [
+        "fuck",
+        "bitch",
+        "shut up",
+        "hell",
+        "stupid",
+        "idiot",
+        "dumb ass",
+        "asshole",
+        "fuck you",
+        "fucker"
+      ],
+      "responses": [
+        "please use appropriate language.",
+        "Maintaining decency would be appreciated."
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": [
+        "salutation"
+      ],
+      "patterns": [
+        "okk",
+        "okie",
+        "nice work",
+        "well done",
+        "good job",
+        "thanks for the help",
+        "Thank You",
+        "its ok",
+        "Thanks",
+        "Good work",
+        "ok",
+        "tnx",
+        "okay"
+      ],
+      "responses": [
+        "I am glad I helped you",
+        "welcome, anything else i can assist you with?"
+      ],
+      "context_set": ""
+    },
+    {
+      "tag": [
+        "ragging"
+      ],
+      "patterns": [
+        "ragging",
+        "is ragging practice active in varsity",
+        "does varsity have any anti ragging facility",
+        "is there any ragging cases",
+        "is ragging done here",
+        "ragging against",
+        "antiragging facility",
+        "ragging juniors",
+        "ragging history",
+        "ragging incidents"
+      ],
+      "responses": [
+        "We are Proud to tell you that our varsity provides ragging free environment, and we have strict rules against ragging"
+      ],
+      "context_set": ""
+    }
+  ]
+}

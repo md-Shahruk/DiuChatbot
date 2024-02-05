@@ -1,0 +1,262 @@
+{
+  "intents": [
+    {
+      "_comment": "BOARD OF TRUSTEES",
+      "tag": [
+        "BOARD OF TRUSTEES",
+        "BOT"
+      ],
+      "patterns": [
+        "tell me about board of trustees?",
+        "bot?",
+        "board of trustees"
+      ],
+      "responses": [
+        "Visit this link[Click Here](https://daffodilvarsity.edu.bd/committee/board-of-trustees)"
+      ]
+    },
+    {
+      "_comment": "HON\u2019BLE CHANCELLOR",
+      "tag": [
+        "chancellor",
+        "CHANCELLOR"
+      ],
+      "patterns": [
+        "Who is the current  Chancellor of the university?",
+        "Tell me about chancellor?",
+        " who is the chancellor of daffodil varsity?",
+        "who is the  chancellor of diu?",
+        "Can you tell me about any notable achievements or initiatives led by the  Chancellor?",
+        "How can students or faculty members connect with the  Chancellor?",
+        " chancellor ?",
+        ""
+      ],
+      "responses": [
+        "Name: Mohammed Shahabuddin\nHon\u2019ble President of the People\u2019s Republic of Bangladesh and Hon\u2019ble Chancellor, Daffodil International University\n[Click Here](https://daffodilvarsity.edu.bd/article/chancellor-profile)"
+      ]
+    },
+    {
+      "_comment": "varsity vice chancellor",
+      "tag": [
+        "Vice chancellor",
+        "vc",
+        "varsity vc"
+      ],
+      "patterns": [
+        "Who is the current Vice Chancellor of the university?",
+        "Tell me about vc?",
+        " who is the vc of daffodil varsity?",
+        "who is the vc vice chancellor of diu?",
+        "Can you tell me about any notable achievements or initiatives led by the Vice Chancellor?",
+        "How can students or faculty members connect with the Vice Chancellor?",
+        "vice chancellor ?",
+        "who is the vc of diu?",
+        "varsity vc",
+        "vc"
+      ],
+      "responses": [
+        "Prof. M. Lutfar Rahman, Phd\nContact: vc@daffodilvarsity.edu.bd\nProfessionalism: He has over 200 research papers and over 100 scientific and technical articles to his credit. He authored/co-authored 16 books on Electronics, Electronic Communications and Computer Science and Engineering. He also supervised many M.Sc. students and Ph.D scholars.\n\nMore details[CLICK HERE](https://daffodilvarsity.edu.bd/article/vc-profile)"
+      ]
+    },
+    {
+      "tag": [
+        "pro-vc",
+        "pro-vice chancellor"
+      ],
+      "patterns": [
+        "Who is the current Pro-Vice Chancellor of the university?",
+        "Tell me about pro-vc?",
+        " who is the pro-vc of daffodil varsity?",
+        "who is the pro-vc vice chancellor of diu?",
+        "Can you tell me about any notable achievements or initiatives led by the Pro-Vice Chancellor?",
+        "How can students or faculty members connect with the Pro-Vice Chancellor?",
+        "Pro-vice chancellor ?",
+        "pro-vc"
+      ],
+      "responses": [
+        "Professor Dr. S.M. Mahbub Ul Haque Majumder\nContact: provc@daffodil.varsity\n\nMore details[Click Here](https://daffodilvarsity.edu.bd/photos/pdf/cv-provc.pdf)"
+      ]
+    },
+    {
+      "_comment": "Dean and Professor of CSE  ",
+      "tag": [
+        "Dean of cse",
+        "cse dean",
+        "Dean of FSIT",
+        "SAH",
+        "Dr. Syed Akhter Hossain"
+      ],
+      "patterns": [
+        "who is the dean of cse?",
+        "dean of cse?",
+        "cse dean?",
+        "tell me about SAH sir?",
+        "Room number of SAH sir?",
+        "Room number of Akhter sir?",
+        "Tell me about Prof. Dr. Syed Akhter Hossain?",
+        "tell me Syed Akhter Hossain?",
+        "who is the dean of fsit?",
+        "sah",
+        ""
+      ],
+      "responses": [
+        "Name: Dr. Syed Akhter Hossain(SAH)\nDesignation: Professor & Dean\nCell: 01817382645\nEmail: aktarhossain@daffodilvarsity.edu.bd\nRoom no: AB04-709 "
+      ]
+    },
+    {
+      "_comment": "cse head",
+      "tag": [
+        "head of cse",
+        "cse head",
+        "SRH",
+        "Dr. Sheak Rashed Haider Noori"
+      ],
+      "patterns": [
+        "who is the head of cse?",
+        "head of cse?",
+        "cse head?",
+        "tell me about SRH sir?",
+        "Room number of SRH sir?",
+        "Room number of Noori sir?",
+        "Tell me about Dr. Sheak Rashed Haider Noori ?",
+        "tell me Noori sir?",
+        ""
+      ],
+      "responses": [
+        "Name: Dr. Dr. Sheak Rashed Haider Noori(SRH)\nDesignation: Professor & Head\nCell: 01847140176\nEmail: drnoori@daffodilvarsity.edu.bd\nRoom no: AB04-205 "
+      ]
+    },
+    {
+      "_comment": "Associate Professor and Associate Head ",
+      "tag": [
+        "SMAH",
+        "Dr. S.M Aminul Haque"
+      ],
+      "patterns": [
+        "tell me about SMAH sir?",
+        "Room number of SMAH sir?",
+        "Room number of Aminul Haque sir?",
+        "Tell me about Dr. S.M Aminul Haque ?",
+        "tell me  Aminul Haque sir?",
+        ""
+      ],
+      "responses": [
+        "Name: Dr. S.M Aminul Haque\nDesignation: Associate Professor & Associate Head\nCell: 01847140129\nEmail: aminul.cse@daffodilvarsity.edu.bd\nRoom no: AB04-205"
+      ]
+    },
+    {
+      "_comment": "",
+      "tag": [
+        "Mr. Narayan Ranjan Chakraborty",
+        "NRC",
+        "Narayan"
+      ],
+      "patterns": [
+        "tell me about NRC sir?",
+        "Room number of NRC sir?",
+        "Room number of Narayan sir?",
+        "Tell me about Mr. Narayan Ranjan Chakraborty ?",
+        "tell me  Narayan sir?",
+        ""
+      ],
+      "responses": [
+        "Name: Narayan Ranjan Chakraborty\nDesignation: Associate Professor and Associate Head\nCell: 01717379897\nEmail: narayan@daffodilvarsity.edu.bd\nRoom no: AB04-205"
+      ]
+    },
+    {
+      "_comment": "Rasel Sir",
+      "tag": [
+        "Rahmatul kabir Rasel Sarker",
+        "RKR",
+        "Rasel"
+      ],
+      "patterns": [
+        "tell me about RKR sir?",
+        "Room number of RKR sir?",
+        "Room number of Rasel sir?",
+        "Tell me about Rahmatul kabir Rasel Sarker ?",
+        "tell me  Rasel sir?",
+        ""
+      ],
+      "responses": [
+        "Name: Rahmatul Kabir Rasel Sarker\nDesignation: Lecturer\nCell: 01761918875\nEmail: raselsarker.cse@diu.edu.bd\nRoom no: AB04-734"
+      ]
+    },
+    {
+      "_comment": "Mahedi Hassan sir",
+      "tag": [
+        "MHS",
+        "Md. Mahedi Hassan",
+        "Mahedi Hassan"
+      ],
+      "patterns": [
+        "tell me about MHS sir?",
+        "Room number of MHS sir?",
+        "Room number of Mahedi sir?",
+        "Tell me about Md. Mahedi Hassan ?",
+        "tell me  Mahedi sir?",
+        ""
+      ],
+      "responses": [
+        "Name: Md. Mahedi Hassan\nDesignation: Lecturer\nCell: 01301728260\nEmail: mhassan.cse@diu.edu.bd\nRoom no: AB04-505/16"
+      ]
+    },
+    {
+      "_comment": "Taimur Ahad sir",
+      "tag": [
+        "MTA",
+        "Md. Taimur Ahad",
+        "Taimur Ahad"
+      ],
+      "patterns": [
+        "tell me about MTA sir?",
+        "Room number of MTA sir?",
+        "Room number of Taimur sir?",
+        "Tell me about Md. Taimur Ahad ?",
+        "tell me  Taimur sir?",
+        ""
+      ],
+      "responses": [
+        "Name: Dr. Md. Taimur Ahad(MTA)\nDesignation: Associate Professor & Associate Head\nCell: 01701330009\nEmail: taimurahad.cse@diu.edu.bd\nRoom no: AB04-738"
+      ]
+    },
+    {
+      "_comment": "Fourcan Karim Mazumder sir",
+      "tag": [
+        "FKM",
+        "Fourcan Karim Mazumder",
+        "Fourcan"
+      ],
+      "patterns": [
+        "tell me about FKM sir?",
+        "Room number of FKM sir?",
+        "Room number of Fourcan sir?",
+        "Tell me about Fourcan Karim Mazumder Sir, ?",
+        "tell me  Fourcan sir?",
+        ""
+      ],
+      "responses": [
+        "Name: Fourcan Karim Mazumder(FKM)\nDesignation: Assistant Professor\nCell: 01738332159\nEmail: fourcan.cse@diu.edu.bd\nRoom no: AB04-732"
+      ]
+    },
+    {
+      "_comment": "Firoz Hasan sir",
+      "tag": [
+        "FH",
+        "Md. Firoz Hasan",
+        "Firoz Hasan"
+      ],
+      "patterns": [
+        "tell me about FH sir?",
+        "Room number of FH sir?",
+        "Room number of Firoz Hasan sir?",
+        "Tell me about Md. Firoz Hasan ?",
+        "tell me  Firoz sir?",
+        ""
+      ],
+      "responses": [
+        "Name: Md. Firoz Hasan(FH)\nDesignation: Senior Lecturer\nCell: 01749278164\nEmail: firoz.cse@diu.edu.bd\nRoom no: AB04-705"
+      ]
+    }
+  ]
+}
